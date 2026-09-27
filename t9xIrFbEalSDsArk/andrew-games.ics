@@ -8,213 +8,218 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-East · Field
-  8 South
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-East · Schee
+ ls Field 8 South
 DTSTART:20260809T161500Z
 DTEND:20260809T180000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591077@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Scheels Overland Pa
- rk Soccer Complex\, Field 8 South\nMap: https://maps.apple.com/?q=13700%20
- Switzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Socc
- er\n\n— Original notes (playmetrics) —\nSporting City U11 PreMLS-East 
- at KC SURF PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nS
- cheels Overland Park Soccer Complex 8 South
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Scheels Field 8 Sou
+ th (Scheels Overland Park Soccer Complex)\nMap: https://maps.apple.com/?q=
+ 13700%20Switzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andre
+ w's Soccer\n\n— Original notes (playmetrics) —\nSporting City U11 PreM
+ LS-East at KC SURF PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/
+ White\nScheels Overland Park Soccer Complex 8 South
+LAST-MODIFIED:20260927T224123Z
 LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs TFAC BU11 Premier · Field 1S
+SUMMARY:⚽ Andrew's Soccer Game vs TFAC BU11 Premier · Compass Minerals 
+ Field 1S
 DTSTART:20260816T211500Z
 DTEND:20260816T230000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591153@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 4:15 PM · Starts 4:45 PM\nWhere: Compass Minerals Spor
- ting Fields\, Field 1S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
- t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
- ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at TFAC BU11 Premier
- \nArrive by 4:15 PM\nUniform: Black/Black/Black\nCompass Mineral Sporting 
- Fields 1S
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 4:15 PM · Starts 4:45 PM\nWhere: Compass Minerals Fiel
+ d 1S (Compass Minerals Sporting Fields)\nMap: https://maps.apple.com/?q=15
+ 00%20N%2090th%20St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's 
+ Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at T
+ FAC BU11 Premier\nArrive by 4:15 PM\nUniform: Black/Black/Black\nCompass M
+ ineral Sporting Fields 1S
+LAST-MODIFIED:20260927T224123Z
 LOCATION:1500 N 90th St\, Kansas City\, KS 66112
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Tournament vs Surf and APC Select
+SUMMARY:⚽ Andrew's Soccer Tournament vs Surf and APC Select · Indian Hi
+ lls MS
 DTSTART:20260823T210000Z
 DTEND:20260823T230000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:GenericCalendarEvent_2750865@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,tournament
-DESCRIPTION:Starts 4:00 PM\nMap: https://maps.apple.com/?q=Indian%20Hills%
- 20Middle%20School%2C%20Mission%20Road%2C%20Prairie%20Village%2C%20KS\nCale
- ndar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nFriendly ga
- mes against Carson&#39\;s Surf team and APC Select (private academy)<br>We
- ar Black kit!
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Starts 4:00 PM\nWhere: Indian Hills MS (Indian Hills Middle Sc
+ hool)\nMap: https://maps.apple.com/?q=Indian%20Hills%20Middle%20School%2C%
+ 20Mission%20Road%2C%20Prairie%20Village%2C%20KS\nCalendar: Andrew's Soccer
+ \n\n— Original notes (playmetrics) —\nFriendly games against Carson&#3
+ 9\;s Surf team and APC Select (private academy)<br>Wear Black kit!
+LAST-MODIFIED:20260927T224123Z
 LOCATION:Indian Hills Middle School\, Mission Road\, Prairie Village\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-West · Field
-  8N
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-West · Compa
+ ss Minerals Field 8N
 DTSTART:20260829T161500Z
 DTEND:20260829T180000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591186@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Compass Minerals Sp
- orting Fields\, Field 8N\nMap: https://maps.apple.com/?q=1500%20N%2090th%2
- 0St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— O
- riginal notes (playmetrics) —\nSporting City U11 PreMLS-West at KC SURF 
- PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nCompass Mine
- ral Sporting Fields 8N
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Compass Minerals Fi
+ eld 8N (Compass Minerals Sporting Fields)\nMap: https://maps.apple.com/?q=
+ 1500%20N%2090th%20St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew'
+ s Soccer\n\n— Original notes (playmetrics) —\nSporting City U11 PreMLS
+ -West at KC SURF PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/Wh
+ ite\nCompass Mineral Sporting Fields 8N
+LAST-MODIFIED:20260927T224123Z
 LOCATION:1500 N 90th St\, Kansas City\, KS 66112
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Borussia U11B · Field 4 
- South
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Borussia U11B · Garmin F
+ ield 4 South
 DTSTART:20260830T223000Z
 DTEND:20260831T001500Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591207@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Garmin Olathe Soccer 
- Complex\, Field 4 South\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
- k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
- nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Borussi
- a U11B\nArrive by 5:30 PM\nUniform: Black/Black/Black\nGarmin Olathe Socce
- r Complex 4 South
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Garmin Field 4 South 
+ (Garmin Olathe Soccer Complex)\nMap: https://maps.apple.com/?q=10541%20S%2
+ 0Warwick%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n
+ — Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletic
+ s Borussia U11B\nArrive by 5:30 PM\nUniform: Black/Black/Black\nGarmin Ola
+ the Soccer Complex 4 South
+LAST-MODIFIED:20260927T224123Z
 LOCATION:10541 S Warwick St\, Olathe\, KS 66061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Sporting Nebraska FC Pre ECNL · Field
-  4A
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Nebraska FC Pre ECNL · CHI H
+ ealth (La Vista\, NE) Field 4A
 DTSTART:20260912T134000Z
 DTEND:20260912T153000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4723330@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
-  Complex\, Field 4A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
- %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
- l notes (playmetrics) —\nSporting Nebraska FC Pre ECNL at KC SURF PRE EC
- NL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE 
- Multisports Complex Field 4A
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health (La Vista
+ \, NE) Field 4A (CHI Health Multisport Complex)\nMap: https://maps.apple.c
+ om/?q=6925%20Eastport%20Pkwy%2C%20La%20Vista%2C%20NE%2068128\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nSporting Nebraska F
+ C Pre ECNL at KC SURF PRE ECNL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform
+ : Black/Black/Black\nCHI NE Multisports Complex Field 4A
+LAST-MODIFIED:20260927T224123Z
 LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs VSA Rush Pre ECNL · Field 5A
+SUMMARY:⚽ Andrew's Soccer Game vs VSA Rush Pre ECNL · CHI Health (La Vi
+ sta\, NE) Field 5A
 DTSTART:20260912T180000Z
 DTEND:20260912T193000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4723413@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 1:00 PM · Starts 1:30 PM\nWhere: CHI Health Multisport
-  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
- %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
- l notes (playmetrics) —\nVSA Rush Pre ECNL at KC SURF PRE ECNL U11B (Pre
- -ECNL)\nArrive by 1:00 PM\nUniform: White/Blue/White\nCHI NE Multisports C
- omplex 5A
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 1:00 PM · Starts 1:30 PM\nWhere: CHI Health (La Vista
+ \, NE) Field 5A (CHI Health Multisport Complex)\nMap: https://maps.apple.c
+ om/?q=6925%20Eastport%20Pkwy%2C%20La%20Vista%2C%20NE%2068128\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nVSA Rush Pre ECNL a
+ t KC SURF PRE ECNL U11B (Pre-ECNL)\nArrive by 1:00 PM\nUniform: White/Blue
+ /White\nCHI NE Multisports Complex 5A
+LAST-MODIFIED:20260927T224123Z
 LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Sporting Iowa Central Pre-ECNL · Fiel
- d 5A
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Iowa Central Pre-ECNL · CHI 
+ Health (La Vista\, NE) Field 5A
 DTSTART:20260913T134000Z
 DTEND:20260913T153000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4932990@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
-  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
- %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
- l notes (playmetrics) —\nSporting Iowa Central Pre-ECNL at KC SURF PRE E
- CNL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE
-  Multisports Complex 5A
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health (La Vista
+ \, NE) Field 5A (CHI Health Multisport Complex)\nMap: https://maps.apple.c
+ om/?q=6925%20Eastport%20Pkwy%2C%20La%20Vista%2C%20NE%2068128\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nSporting Iowa Centr
+ al Pre-ECNL at KC SURF PRE ECNL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUnifor
+ m: Black/Black/Black\nCHI NE Multisports Complex 5A
+LAST-MODIFIED:20260927T224123Z
 LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Union KC 15/16B Pre-ECNL Navy · Field
-  8 North
+SUMMARY:⚽ Andrew's Soccer Game vs Union KC 15/16B Pre-ECNL Navy · Schee
+ ls Field 8 North
 DTSTART:20260926T011500Z
 DTEND:20260926T030000Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591411@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 8:15 PM · Starts 8:45 PM\nWhere: Scheels Overland Park
-  Soccer Complex\, Field 8 North\nMap: https://maps.apple.com/?q=13700%20Sw
- itzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer
- \n\n— Original notes (playmetrics) —\nUnion KC 15/16B Pre-ECNL Navy at
-  KC SURF PRE ECNL U11B\nArrive by 8:15 PM\nUniform: White/Blue/White\nSche
- els Overland Park Soccer Complex 8 North
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 8:15 PM · Starts 8:45 PM\nWhere: Scheels Field 8 North
+  (Scheels Overland Park Soccer Complex)\nMap: https://maps.apple.com/?q=13
+ 700%20Switzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew'
+ s Soccer\n\n— Original notes (playmetrics) —\nUnion KC 15/16B Pre-ECNL
+  Navy at KC SURF PRE ECNL U11B\nArrive by 8:15 PM\nUniform: White/Blue/Whi
+ te\nScheels Overland Park Soccer Complex 8 North
+LAST-MODIFIED:20260927T224123Z
 LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Academy U11B · Field 4 No
- rth
+SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Academy U11B · Garmin Fie
+ ld 4 North
 DTSTART:20260927T134500Z
 DTEND:20260927T161500Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591260@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 8:45 AM · Starts 9:15 AM\nWhere: Garmin Olathe Soccer 
- Complex\, Field 4 North\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
- k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
- nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at Kansas Rush Academy 
- U11B\nArrive by 8:45 AM\nUniform: Black/Black/Black\nGarmin Olathe Soccer 
- Complex 4 North
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 8:45 AM · Starts 9:15 AM\nWhere: Garmin Field 4 North 
+ (Garmin Olathe Soccer Complex)\nMap: https://maps.apple.com/?q=10541%20S%2
+ 0Warwick%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n
+ — Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at Kansas Rush
+  Academy U11B\nArrive by 8:45 AM\nUniform: Black/Black/Black\nGarmin Olath
+ e Soccer Complex 4 North
+LAST-MODIFIED:20260927T224123Z
 LOCATION:10541 S Warwick St\, Olathe\, KS 66061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-North · Fiel
- d 2N
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-North · Swop
+ e Field 2N
 DTSTART:20261004T150000Z
 DTEND:20261004T164500Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591450@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 10:00 AM · Starts 10:30 AM\nWhere: Swope Soccer Villag
- e\, Field 2N\nMap: https://maps.apple.com/?q=6310%20Lewis%20Rd%2C%20Kansas
- %20City%2C%20MO%2064132\nCalendar: Andrew's Soccer\n\n— Original notes (
- playmetrics) —\nSporting City U11 PreMLS-North at KC SURF PRE ECNL U11B
- \nArrive by 10:00 AM\nUniform: White/Blue/White\nSwope Soccer Village 2N
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 10:00 AM · Starts 10:30 AM\nWhere: Swope Field 2N (Swo
+ pe Soccer Village)\nMap: https://maps.apple.com/?q=6310%20Lewis%20Rd%2C%20
+ Kansas%20City%2C%20MO%2064132\nCalendar: Andrew's Soccer\n\n— Original n
+ otes (playmetrics) —\nSporting City U11 PreMLS-North at KC SURF PRE ECNL
+  U11B\nArrive by 10:00 AM\nUniform: White/Blue/White\nSwope Soccer Village
+  2N
+LAST-MODIFIED:20260927T224123Z
 LOCATION:6310 Lewis Rd\, Kansas City\, MO 64132
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Field 8S
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Compass Min
+ erals Field 8S
 DTSTART:20261011T200000Z
 DTEND:20261011T214500Z
-DTSTAMP:20260927T222647Z
+DTSTAMP:20260927T224123Z
 UID:andrew-soccer:Game_4591472@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Spor
- ting Fields\, Field 8S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
- t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
- ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Monac
- o 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCompass Mineral Spor
- ting Fields 8S
-LAST-MODIFIED:20260927T222647Z
+DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Fiel
+ d 8S (Compass Minerals Sporting Fields)\nMap: https://maps.apple.com/?q=15
+ 00%20N%2090th%20St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's 
+ Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at K
+ C Athletics Monaco 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCom
+ pass Mineral Sporting Fields 8S
+LAST-MODIFIED:20260927T224123Z
 LOCATION:1500 N 90th St\, Kansas City\, KS 66112
 END:VEVENT
 END:VCALENDAR
