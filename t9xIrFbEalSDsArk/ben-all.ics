@@ -8,918 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
-DTSTART:20260328T155000Z
-DTEND:20260328T173000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-364597355@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
- e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
- %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
- ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
-   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
-DTSTART:20260402T232000Z
-DTEND:20260403T010000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-364597259@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elem (Wo
- lf Springs Elementary School)\nMap: https://maps.apple.com/?q=9300%20W%201
- 78th%20St%2C%20Overland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n
- \n— Original notes (teamsnap) —\nLocation: Wolf Springs Elementary Sch
- ool\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9300 W 178th St\, Overland Park\, KS 66013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
-DTSTART:20260404T155000Z
-DTEND:20260404T173000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-364597356@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
- e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
- %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
- ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
-   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
-DTSTART:20260409T232000Z
-DTEND:20260410T010000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-364597260@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elem (Wo
- lf Springs Elementary School)\nMap: https://maps.apple.com/?q=9300%20W%201
- 78th%20St%2C%20Overland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n
- \n— Original notes (teamsnap) —\nLocation: Wolf Springs Elementary Sch
- ool\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9300 W 178th St\, Overland Park\, KS 66013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
-DTSTART:20260411T155000Z
-DTEND:20260411T173000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-364597357@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
- e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
- %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
- ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
-   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · BV Rec Field 2
-DTSTART:20260416T234000Z
-DTEND:20260417T011500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133174@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 6:40 PM · Starts 7:00 PM\nWhere: BV Rec Field 2 (Blue 
- Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
- C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
- nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   
- (Arrival Time:  6:40 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
- Snacks : Bodhi Rinehart\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Penny · BV Rec Field 4
-DTSTART:20260423T220000Z
-DTEND:20260423T234500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133235@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 4 (Blue 
- Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
- C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
- nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   
- (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Timberwolves (Hobbs) · BV Rec Field 24
-DTSTART:20260425T223000Z
-DTEND:20260426T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133278@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 24 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #24\n 
-   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Unassigned\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Mustangs (Byrd) · BV Rec Field 2
-DTSTART:20260428T233000Z
-DTEND:20260429T011500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133371@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 2 (Blue 
- Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
- C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
- nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   
- (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
- Snacks : Unassigned\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
-DTSTART:20260430T230000Z
-DTEND:20260501T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255934@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
- tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
- ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
- amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
- Time:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:6410 W 199th St\, Stilwell\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 10
-DTSTART:20260507T220000Z
-DTEND:20260507T234500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133426@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 10 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #10\n 
-   (Arrival Time:  5:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Unassigned\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Los Campos Dorados · 3&2 West Field 11
-DTSTART:20260509T123000Z
-DTEND:20260509T141500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-367645060@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 West Field 11 (3&
- 2 Baseball West Complex)\nMap: https://maps.apple.com/?q=8000%20Monticello
- %20Rd%2C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Origin
- al notes (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field 1
- 1\n   (Arrival Time:  7:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Next Level Athletics 8U · 3&2 West Fie
- ld 11
-DTSTART:20260509T153000Z
-DTEND:20260509T171500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-367645090@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 10:30 AM · Starts 11:00 AM\nWhere: 3&2 West Field 11 (
- 3&2 Baseball West Complex)\nMap: https://maps.apple.com/?q=8000%20Monticel
- lo%20Rd%2C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field
-  11\n   (Arrival Time: 10:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Tournament: Bombs for Moms Tourney · 3&2 West
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-367243885@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,tournament
-DESCRIPTION:Where: 3&2 West (3&2 Baseball West Complex)\nMap: https://maps
- .apple.com/?q=8000%20Monticello%20Rd%2C%20Shawnee%2C%20KS%2066227\nCalenda
- r: Ben's Baseball\n\n— Original notes (teamsnap) —\nLocation: 3&2 West
-  Complex Fields 10-27\n   (Arrival Time: 12:00 PM (Central Time (US & Cana
- da))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
-DTSTART:20260514T230000Z
-DTEND:20260515T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255936@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
- tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
- ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
- amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
- Time:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:6410 W 199th St\, Stilwell\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Chargers (Walker) · BV Rec Field 29
-DTSTART:20260516T193000Z
-DTEND:20260516T211500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133493@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 2:30 PM · Starts 3:00 PM\nWhere: BV Rec Field 29 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #29\n 
-   (Arrival Time:  2:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Camden Martens\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
-DTSTART:20260521T230000Z
-DTEND:20260522T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255937@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
- tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
- ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
- amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
- Time:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:6410 W 199th St\, Stilwell\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · BV Rec Field 4
-DTSTART:20260527T233000Z
-DTEND:20260528T011500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133591@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 4 (Blue 
- Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
- C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
- nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   
- (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
- Snacks : Chase Bickel\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
-DTSTART:20260528T230000Z
-DTEND:20260529T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255938@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
- tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
- ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
- amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
- Time:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:6410 W 199th St\, Stilwell\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Kansas Bucks 8U (Thomas) · BV Rec Fiel
- d 11
-DTSTART:20260530T233000Z
-DTEND:20260531T011500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133539@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 11 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #11\n 
-   (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Ben Wiedemann\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Purple Reign - Schweibert · BV Rec Fie
- ld 15
-DTSTART:20260603T000000Z
-DTEND:20260603T014500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133617@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 15 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #15\n 
-   (Arrival Time:  7:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Ben Wiedemann\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
-DTSTART:20260604T230000Z
-DTEND:20260605T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255970@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
- ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
- rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
- es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
- ime:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9300 W 178th St\, Overland Park\, KS 66013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · BV Rec Field 19
-DTSTART:20260608T223000Z
-DTEND:20260609T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133639@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 19 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #19\n 
-   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Payne Albrecht\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
-DTSTART:20260611T230000Z
-DTEND:20260612T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366255971@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
- ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
- rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
- es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
- ime:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9300 W 178th St\, Overland Park\, KS 66013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Penny · BV Rec Field 20
-DTSTART:20260618T223000Z
-DTEND:20260619T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133684@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 20 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #20\n 
-   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Grant Grothe\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 13
-DTSTART:20260624T000000Z
-DTEND:20260624T014500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-366133710@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 13 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #13\n 
-   (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
-DTSTART:20260625T230000Z
-DTEND:20260626T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-368986335@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
- ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
- rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
- es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
- ime:  6:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9300 W 178th St\, Overland Park\, KS 66013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · BV Rec Field 18
-DTSTART:20260627T143000Z
-DTEND:20260627T161500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369457882@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 9:30 AM · Starts 10:00 AM\nWhere: BV Rec Field 18 (Blu
- e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
- %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
- ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n
-    (Arrival Time:  9:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Prodigy Showstoppers - Trowbridge · BV
-  Rec Field 18
-DTSTART:20260627T190000Z
-DTEND:20260627T204500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369457918@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: BV Rec Field 18 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n 
-   (Arrival Time:  2:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
- \nSnacks : Payne Albrecht\n\n
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Tournament: Future Stars Tournament · BV Rec F
- ield 18
-DTSTART:20260628T130000Z
-DTEND:20260628T173000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-368208810@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,tournament
-DESCRIPTION:Arrive 8:00 AM · Starts 8:30 AM\nWhere: BV Rec Field 18 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n  
-  (Arrival Time:  8:00 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs TBD · BV Rec Field 18
-DTSTART:20260628T190000Z
-DTEND:20260628T204500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369612827@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: BV Rec Field 18 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n  
-  (Arrival Time:  2:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260705T223000Z
-DTEND:20260706T000000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369737906@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 5:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
- (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
- :  5:30 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs KC Dingers · 3&2 East Field 3
-DTSTART:20260711T123000Z
-DTEND:20260711T141500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369868154@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 East Field 3 (3&2
-  Baseball East Complex)\nMap: https://maps.apple.com/?q=18300%20W%2087th%2
- 0St%2C%20Lenexa%2C%20KS%2066220\nCalendar: Ben's Baseball\n\n— Original 
- notes (teamsnap) —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n  
-  (Arrival Time:  7:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:18300 W 87th St\, Lenexa\, KS 66220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs MNS Meatballs · 3&2 East Field 3
-DTSTART:20260711T143000Z
-DTEND:20260711T154500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-369868228@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Starts 9:30 AM\nWhere: 3&2 East Field 3 (3&2 Baseball East Com
- plex)\nMap: https://maps.apple.com/?q=18300%20W%2087th%20St%2C%20Lenexa%2C
- %20KS%2066220\nCalendar: Ben's Baseball\n\n— Original notes (teamsnap) 
- —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n   (Arrival Time:  
- 9:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:18300 W 87th St\, Lenexa\, KS 66220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260728T233000Z
-DTEND:20260729T010000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-370610903@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
- (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
- :  6:30 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260806T233000Z
-DTEND:20260807T010000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371064355@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 6:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
- (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
- :  6:30 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260813T230500Z
-DTEND:20260814T003000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371189557@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
- mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
- t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
- — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
- l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Garmin Field 6N
-DTSTART:20260815T010000Z
-DTEND:20260815T021500Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370815846@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 8:00 PM\nWhere: Garmin Field 6N (Garmin Olathe Soccer C
- omplex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Olat
- he%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsnap
- ) —\nLocation: Garmin Olathe Soccer Complex - 6N\n   (Arrival Time:  8:0
- 0 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:10541 S Warwick St\, Olathe\, KS 66061
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs USA Prime · Garmin Field 6S
-DTSTART:20260816T160000Z
-DTEND:20260816T171500Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370815921@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 11:00 AM\nWhere: Garmin Field 6S (Garmin Olathe Soccer 
- Complex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Ola
- the%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsna
- p) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arrival Time: 11:
- 00 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:10541 S Warwick St\, Olathe\, KS 66061
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · BV Rec Field 25
-DTSTART:20260819T220000Z
-DTEND:20260820T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371513410@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-   (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Sunrise Point Elem Field South
-DTSTART:20260820T230500Z
-DTEND:20260821T003000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371189558@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Sunrise Point Elem Fi
- eld South (Sunrise Point Elementary)\nMap: https://maps.apple.com/?q=15800
- %20Roe%20Ave%2C%20Overland%20Park%2C%20KS%2066224\nCalendar: Ben's Basebal
- l\n\n— Original notes (teamsnap) —\nLocation: Sunrise Point Elementary
-  - South\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Mexico · Compass Minerals Field 4N
-DTSTART:20260822T231500Z
-DTEND:20260823T003000Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370816004@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 6:15 PM\nWhere: Compass Minerals Field 4N (Compass Mine
- rals Sporting Fields)\nMap: https://maps.apple.com/?q=1500%20N%2090th%20St
- %2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origina
- l notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 4N\n 
-   (Arrival Time:  6:15 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:1500 N 90th St\, Kansas City\, KS 66112
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · BV Rec Field 25
-DTSTART:20260827T000000Z
-DTEND:20260827T021500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371513827@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260827T230500Z
-DTEND:20260828T003000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371189559@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
- mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
- t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
- — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
- l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-DTSTAMP:20260927T222647Z
-UID:bv-school:90ad5b34-0ee3-549d-8f27-92717e5f9557@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs KC Dirt Dawgs · BV Rec Field 25
-DTSTART:20260904T000000Z
-DTEND:20260904T021500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371514155@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Labor Day
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260927T222647Z
-UID:bv-school:f8f25947-e8be-50d9-8b89-6194787bdc52@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-DTSTAMP:20260927T222647Z
-UID:bv-school:4f8c028e-280d-5c49-8e17-8a7bd5137fd7@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Sunrise Point Elem Field South
-DTSTART:20260910T232000Z
-DTEND:20260911T004500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371189561@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Sunrise Point Elem Fi
- eld South (Sunrise Point Elementary)\nMap: https://maps.apple.com/?q=15800
- %20Roe%20Ave%2C%20Overland%20Park%2C%20KS%2066224\nCalendar: Ben's Basebal
- l\n\n— Original notes (teamsnap) —\nLocation: Sunrise Point Elementary
-  - South\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Garmin Field 6S
-DTSTART:20260913T170000Z
-DTEND:20260913T181500Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370816131@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 12:00 PM\nWhere: Garmin Field 6S (Garmin Olathe Soccer 
- Complex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Ola
- the%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsna
- p) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arrival Time: 12:
- 00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:10541 S Warwick St\, Olathe\, KS 66061
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Reign · BV Rec Field 25
-DTSTART:20260914T220000Z
-DTEND:20260915T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371514218@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Light Blue (Arrival Time:  5:00 PM (Central Time (US & Canada
- ))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · BV Rec Field 25
-DTSTART:20260917T000000Z
-DTEND:20260917T021500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371514336@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Navy Blue (Arrival Time:  7:00 PM (Central Time (US & Canada)
- )) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20260917T230500Z
-DTEND:20260918T003000Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371189562@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
- mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
- t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
- — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
- l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Sunnyside Heritage · Compass Minerals Fi
- eld 5S
-DTSTART:20260920T180000Z
-DTEND:20260920T191500Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370816330@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 1:00 PM\nWhere: Compass Minerals Field 5S (Compass Mine
- rals Sporting Fields)\nMap: https://maps.apple.com/?q=1500%20N%2090th%20St
- %2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origina
- l notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 5S\n 
-   (Arrival Time:  1:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:1500 N 90th St\, Kansas City\, KS 66112
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 25
-DTSTART:20260924T220000Z
-DTEND:20260925T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371514437@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Powder Blue (Arrival Time:  5:00 PM (Central Time (US & Canad
- a))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DTSTAMP:20260927T222647Z
-UID:bv-school:6dcb6719-eaf8-50ba-a819-653e118b3d9a@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Mexico · Scheels Field 12N
-DTSTART:20260925T220000Z
-DTEND:20260925T231500Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370816342@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 5:00 PM\nWhere: Scheels Field 12N (Scheels Overland Par
- k Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%
- 20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n— Original 
- notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Complex - 12 
- N\n   (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · BV Rec Field 25
 DTSTART:20260930T220000Z
 DTEND:20261001T001500Z
@@ -1460,5 +548,917 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Mexico · Scheels Field 12N
+DTSTART:20260925T220000Z
+DTEND:20260925T231500Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370816342@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 5:00 PM\nWhere: Scheels Field 12N (Scheels Overland Par
+ k Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%
+ 20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n— Original 
+ notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Complex - 12 
+ N\n   (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260927T222647Z
+UID:bv-school:6dcb6719-eaf8-50ba-a819-653e118b3d9a@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 25
+DTSTART:20260924T220000Z
+DTEND:20260925T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371514437@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Powder Blue (Arrival Time:  5:00 PM (Central Time (US & Canad
+ a))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Sunnyside Heritage · Compass Minerals Fi
+ eld 5S
+DTSTART:20260920T180000Z
+DTEND:20260920T191500Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370816330@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 1:00 PM\nWhere: Compass Minerals Field 5S (Compass Mine
+ rals Sporting Fields)\nMap: https://maps.apple.com/?q=1500%20N%2090th%20St
+ %2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origina
+ l notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 5S\n 
+   (Arrival Time:  1:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260917T230500Z
+DTEND:20260918T003000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371189562@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
+ mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
+ t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
+ — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
+ l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · BV Rec Field 25
+DTSTART:20260917T000000Z
+DTEND:20260917T021500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371514336@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Navy Blue (Arrival Time:  7:00 PM (Central Time (US & Canada)
+ )) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Reign · BV Rec Field 25
+DTSTART:20260914T220000Z
+DTEND:20260915T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371514218@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Light Blue (Arrival Time:  5:00 PM (Central Time (US & Canada
+ ))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Garmin Field 6S
+DTSTART:20260913T170000Z
+DTEND:20260913T181500Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370816131@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 12:00 PM\nWhere: Garmin Field 6S (Garmin Olathe Soccer 
+ Complex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Ola
+ the%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsna
+ p) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arrival Time: 12:
+ 00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Sunrise Point Elem Field South
+DTSTART:20260910T232000Z
+DTEND:20260911T004500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371189561@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Sunrise Point Elem Fi
+ eld South (Sunrise Point Elementary)\nMap: https://maps.apple.com/?q=15800
+ %20Roe%20Ave%2C%20Overland%20Park%2C%20KS%2066224\nCalendar: Ben's Basebal
+ l\n\n— Original notes (teamsnap) —\nLocation: Sunrise Point Elementary
+  - South\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260927T222647Z
+UID:bv-school:4f8c028e-280d-5c49-8e17-8a7bd5137fd7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260927T222647Z
+UID:bv-school:f8f25947-e8be-50d9-8b89-6194787bdc52@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs KC Dirt Dawgs · BV Rec Field 25
+DTSTART:20260904T000000Z
+DTEND:20260904T021500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371514155@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260927T222647Z
+UID:bv-school:90ad5b34-0ee3-549d-8f27-92717e5f9557@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260827T230500Z
+DTEND:20260828T003000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371189559@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
+ mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
+ t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
+ — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
+ l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · BV Rec Field 25
+DTSTART:20260827T000000Z
+DTEND:20260827T021500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371513827@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Mexico · Compass Minerals Field 4N
+DTSTART:20260822T231500Z
+DTEND:20260823T003000Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370816004@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 6:15 PM\nWhere: Compass Minerals Field 4N (Compass Mine
+ rals Sporting Fields)\nMap: https://maps.apple.com/?q=1500%20N%2090th%20St
+ %2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origina
+ l notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 4N\n 
+   (Arrival Time:  6:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Sunrise Point Elem Field South
+DTSTART:20260820T230500Z
+DTEND:20260821T003000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371189558@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Sunrise Point Elem Fi
+ eld South (Sunrise Point Elementary)\nMap: https://maps.apple.com/?q=15800
+ %20Roe%20Ave%2C%20Overland%20Park%2C%20KS%2066224\nCalendar: Ben's Basebal
+ l\n\n— Original notes (teamsnap) —\nLocation: Sunrise Point Elementary
+  - South\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · BV Rec Field 25
+DTSTART:20260819T220000Z
+DTEND:20260820T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371513410@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+   (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs USA Prime · Garmin Field 6S
+DTSTART:20260816T160000Z
+DTEND:20260816T171500Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370815921@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 11:00 AM\nWhere: Garmin Field 6S (Garmin Olathe Soccer 
+ Complex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Ola
+ the%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsna
+ p) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arrival Time: 11:
+ 00 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Garmin Field 6N
+DTSTART:20260815T010000Z
+DTEND:20260815T021500Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370815846@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 8:00 PM\nWhere: Garmin Field 6N (Garmin Olathe Soccer C
+ omplex)\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20St%2C%20Olat
+ he%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original notes (teamsnap
+ ) —\nLocation: Garmin Olathe Soccer Complex - 6N\n   (Arrival Time:  8:0
+ 0 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260813T230500Z
+DTEND:20260814T003000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371189557@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elem (Ti
+ mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
+ t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
+ — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
+ l\n   (Arrival Time:  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260806T233000Z
+DTEND:20260807T010000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371064355@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
+ :  6:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260728T233000Z
+DTEND:20260729T010000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-370610903@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
+ :  6:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs MNS Meatballs · 3&2 East Field 3
+DTSTART:20260711T143000Z
+DTEND:20260711T154500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369868228@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Starts 9:30 AM\nWhere: 3&2 East Field 3 (3&2 Baseball East Com
+ plex)\nMap: https://maps.apple.com/?q=18300%20W%2087th%20St%2C%20Lenexa%2C
+ %20KS%2066220\nCalendar: Ben's Baseball\n\n— Original notes (teamsnap) 
+ —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n   (Arrival Time:  
+ 9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:18300 W 87th St\, Lenexa\, KS 66220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs KC Dingers · 3&2 East Field 3
+DTSTART:20260711T123000Z
+DTEND:20260711T141500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369868154@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 East Field 3 (3&2
+  Baseball East Complex)\nMap: https://maps.apple.com/?q=18300%20W%2087th%2
+ 0St%2C%20Lenexa%2C%20KS%2066220\nCalendar: Ben's Baseball\n\n— Original 
+ notes (teamsnap) —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n  
+  (Arrival Time:  7:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:18300 W 87th St\, Lenexa\, KS 66220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20260705T223000Z
+DTEND:20260706T000000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369737906@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 5:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
+ :  5:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs TBD · BV Rec Field 18
+DTSTART:20260628T190000Z
+DTEND:20260628T204500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369612827@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: BV Rec Field 18 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n  
+  (Arrival Time:  2:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Tournament: Future Stars Tournament · BV Rec F
+ ield 18
+DTSTART:20260628T130000Z
+DTEND:20260628T173000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-368208810@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,tournament
+DESCRIPTION:Arrive 8:00 AM · Starts 8:30 AM\nWhere: BV Rec Field 18 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n  
+  (Arrival Time:  8:00 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Prodigy Showstoppers - Trowbridge · BV
+  Rec Field 18
+DTSTART:20260627T190000Z
+DTEND:20260627T204500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369457918@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: BV Rec Field 18 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n 
+   (Arrival Time:  2:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Payne Albrecht\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · BV Rec Field 18
+DTSTART:20260627T143000Z
+DTEND:20260627T161500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-369457882@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 9:30 AM · Starts 10:00 AM\nWhere: BV Rec Field 18 (Blu
+ e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
+ %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
+ ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n
+    (Arrival Time:  9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
+DTSTART:20260625T230000Z
+DTEND:20260626T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-368986335@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
+ ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
+ ime:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 13
+DTSTART:20260624T000000Z
+DTEND:20260624T014500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133710@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 13 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #13\n 
+   (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Penny · BV Rec Field 20
+DTSTART:20260618T223000Z
+DTEND:20260619T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133684@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 20 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #20\n 
+   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Grant Grothe\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
+DTSTART:20260611T230000Z
+DTEND:20260612T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255971@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
+ ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
+ ime:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · BV Rec Field 19
+DTSTART:20260608T223000Z
+DTEND:20260609T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133639@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 19 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #19\n 
+   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Payne Albrecht\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
+DTSTART:20260604T230000Z
+DTEND:20260605T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255970@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Wolf Springs Elem (Wolf Springs Element
+ ary School)\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival T
+ ime:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Purple Reign - Schweibert · BV Rec Fie
+ ld 15
+DTSTART:20260603T000000Z
+DTEND:20260603T014500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133617@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: BV Rec Field 15 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #15\n 
+   (Arrival Time:  7:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Ben Wiedemann\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kansas Bucks 8U (Thomas) · BV Rec Fiel
+ d 11
+DTSTART:20260530T233000Z
+DTEND:20260531T011500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133539@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 11 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #11\n 
+   (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Ben Wiedemann\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
+DTSTART:20260528T230000Z
+DTEND:20260529T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255938@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
+ tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
+ ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
+ Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · BV Rec Field 4
+DTSTART:20260527T233000Z
+DTEND:20260528T011500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133591@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 4 (Blue 
+ Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
+ C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
+ nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   
+ (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
+ Snacks : Chase Bickel\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
+DTSTART:20260521T230000Z
+DTEND:20260522T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255937@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
+ tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
+ ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
+ Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Chargers (Walker) · BV Rec Field 29
+DTSTART:20260516T193000Z
+DTEND:20260516T211500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133493@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:30 PM · Starts 3:00 PM\nWhere: BV Rec Field 29 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #29\n 
+   (Arrival Time:  2:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Camden Martens\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
+DTSTART:20260514T230000Z
+DTEND:20260515T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255936@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
+ tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
+ ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
+ Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Tournament: Bombs for Moms Tourney · 3&2 West
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-367243885@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,tournament
+DESCRIPTION:Where: 3&2 West (3&2 Baseball West Complex)\nMap: https://maps
+ .apple.com/?q=8000%20Monticello%20Rd%2C%20Shawnee%2C%20KS%2066227\nCalenda
+ r: Ben's Baseball\n\n— Original notes (teamsnap) —\nLocation: 3&2 West
+  Complex Fields 10-27\n   (Arrival Time: 12:00 PM (Central Time (US & Cana
+ da))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Next Level Athletics 8U · 3&2 West Fie
+ ld 11
+DTSTART:20260509T153000Z
+DTEND:20260509T171500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-367645090@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 10:30 AM · Starts 11:00 AM\nWhere: 3&2 West Field 11 (
+ 3&2 Baseball West Complex)\nMap: https://maps.apple.com/?q=8000%20Monticel
+ lo%20Rd%2C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field
+  11\n   (Arrival Time: 10:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Los Campos Dorados · 3&2 West Field 11
+DTSTART:20260509T123000Z
+DTEND:20260509T141500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-367645060@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 West Field 11 (3&
+ 2 Baseball West Complex)\nMap: https://maps.apple.com/?q=8000%20Monticello
+ %20Rd%2C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Origin
+ al notes (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field 1
+ 1\n   (Arrival Time:  7:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · BV Rec Field 10
+DTSTART:20260507T220000Z
+DTEND:20260507T234500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133426@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 10 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #10\n 
+   (Arrival Time:  5:00 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Unassigned\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Stilwell Elem NE Field
+DTSTART:20260430T230000Z
+DTEND:20260501T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366255934@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Stilwell Elem NE Field (Stilwell Elemen
+ tary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20St
+ ilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arrival 
+ Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Mustangs (Byrd) · BV Rec Field 2
+DTSTART:20260428T233000Z
+DTEND:20260429T011500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133371@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: BV Rec Field 2 (Blue 
+ Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
+ C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
+ nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   
+ (Arrival Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
+ Snacks : Unassigned\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Timberwolves (Hobbs) · BV Rec Field 24
+DTSTART:20260425T223000Z
+DTEND:20260426T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133278@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: BV Rec Field 24 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #24\n 
+   (Arrival Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n
+ \nSnacks : Unassigned\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Penny · BV Rec Field 4
+DTSTART:20260423T220000Z
+DTEND:20260423T234500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133235@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 4 (Blue 
+ Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
+ C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
+ nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   
+ (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · BV Rec Field 2
+DTSTART:20260416T234000Z
+DTEND:20260417T011500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-366133174@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:40 PM · Starts 7:00 PM\nWhere: BV Rec Field 2 (Blue 
+ Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2
+ C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Origi
+ nal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   
+ (Arrival Time:  6:40 PM (Central Time (US & Canada))) \n\nAssignments:\n\n
+ Snacks : Bodhi Rinehart\n\n
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
+DTSTART:20260411T155000Z
+DTEND:20260411T173000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-364597357@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
+ e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
+ %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
+ ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
+   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
+DTSTART:20260409T232000Z
+DTEND:20260410T010000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-364597260@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elem (Wo
+ lf Springs Elementary School)\nMap: https://maps.apple.com/?q=9300%20W%201
+ 78th%20St%2C%20Overland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n
+ \n— Original notes (teamsnap) —\nLocation: Wolf Springs Elementary Sch
+ ool\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
+DTSTART:20260404T155000Z
+DTEND:20260404T173000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-364597356@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
+ e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
+ %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
+ ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
+   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Wolf Springs Elem
+DTSTART:20260402T232000Z
+DTEND:20260403T010000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-364597259@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elem (Wo
+ lf Springs Elementary School)\nMap: https://maps.apple.com/?q=9300%20W%201
+ 78th%20St%2C%20Overland%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n
+ \n— Original notes (teamsnap) —\nLocation: Wolf Springs Elementary Sch
+ ool\n   (Arrival Time:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · BV Rec Field 4
+DTSTART:20260328T155000Z
+DTEND:20260328T173000Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-364597355@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: BV Rec Field 4 (Blu
+ e Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St
+ %2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Ori
+ ginal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n 
+   (Arrival Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
 END:VEVENT
 END:VCALENDAR
