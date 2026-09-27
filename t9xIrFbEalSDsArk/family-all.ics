@@ -1,0 +1,1961 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kids-calendar-sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boys – Everything
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Field 4
+DTSTART:20260328T155000Z
+DTEND:20260328T173000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-364597355@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: Blue Valley Recreat
+ ion\, Field 4\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20O
+ verland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   (Arri
+ val Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260402T232000Z
+DTEND:20260403T010000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-364597259@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elementa
+ ry School\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival Tim
+ e:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Field 4
+DTSTART:20260404T155000Z
+DTEND:20260404T173000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-364597356@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: Blue Valley Recreat
+ ion\, Field 4\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20O
+ verland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   (Arri
+ val Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260409T232000Z
+DTEND:20260410T010000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-364597260@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Wolf Springs Elementa
+ ry School\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival Tim
+ e:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Field 4
+DTSTART:20260411T155000Z
+DTEND:20260411T173000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-364597357@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 10:50 AM · Starts 11:00 AM\nWhere: Blue Valley Recreat
+ ion\, Field 4\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20O
+ verland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   (Arri
+ val Time: 10:50 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · Field 2
+DTSTART:20260416T234000Z
+DTEND:20260417T011500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133174@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:40 PM · Starts 7:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 2\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   (Arriva
+ l Time:  6:40 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnacks 
+ : Bodhi Rinehart\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Penny · Field 4
+DTSTART:20260423T220000Z
+DTEND:20260423T234500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133235@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 4\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   (Arriva
+ l Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Timberwolves (Hobbs) · Field 24
+DTSTART:20260425T223000Z
+DTEND:20260426T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133278@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 24\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #24\n   (Arri
+ val Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Unassigned\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Mustangs (Byrd) · Field 2
+DTSTART:20260428T233000Z
+DTEND:20260429T011500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133371@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 2\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Blue Valley Recreation - Field #2\n   (Arriva
+ l Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnacks 
+ : Unassigned\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · NE Field
+DTSTART:20260430T230000Z
+DTEND:20260501T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255934@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Stilwell Elementary S
+ chool\, NE Field\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%
+ 20Stilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arri
+ val Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · Field 10
+DTSTART:20260507T220000Z
+DTEND:20260507T234500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133426@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 10\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #10\n   (Arri
+ val Time:  5:00 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Unassigned\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Los Campos Dorados · Field 11
+DTSTART:20260509T123000Z
+DTEND:20260509T141500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-367645060@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 Baseball West Com
+ plex\, Field 11\nMap: https://maps.apple.com/?q=8000%20Monticello%20Rd%2C%
+ 20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field 11\n   (Ar
+ rival Time:  7:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Next Level Athletics 8U · Field 11
+DTSTART:20260509T153000Z
+DTEND:20260509T171500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-367645090@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 10:30 AM · Starts 11:00 AM\nWhere: 3&2 Baseball West C
+ omplex\, Field 11\nMap: https://maps.apple.com/?q=8000%20Monticello%20Rd%2
+ C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Baseball\n\n— Original note
+ s (teamsnap) —\nLocation: 3&2 West Complex Fields 10-27 - Field 11\n   (
+ Arrival Time: 10:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Tournament: Bombs for Moms Tourney
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-367243885@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,tournament
+DESCRIPTION:Where: 3&2 Baseball West Complex\nMap: https://maps.apple.com/
+ ?q=8000%20Monticello%20Rd%2C%20Shawnee%2C%20KS%2066227\nCalendar: Ben's Ba
+ seball\n\n— Original notes (teamsnap) —\nLocation: 3&2 West Complex Fi
+ elds 10-27\n   (Arrival Time: 12:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:8000 Monticello Rd\, Shawnee\, KS 66227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · NE Field
+DTSTART:20260514T230000Z
+DTEND:20260515T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255936@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Stilwell Elementary S
+ chool\, NE Field\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%
+ 20Stilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arri
+ val Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Chargers (Walker) · Field 29
+DTSTART:20260516T193000Z
+DTEND:20260516T211500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133493@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:30 PM · Starts 3:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 29\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #29\n   (Arri
+ val Time:  2:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Camden Martens\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · NE Field
+DTSTART:20260521T230000Z
+DTEND:20260522T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255937@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Stilwell Elementary S
+ chool\, NE Field\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%
+ 20Stilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arri
+ val Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · Field 4
+DTSTART:20260527T233000Z
+DTEND:20260528T011500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133591@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 4\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ove
+ rland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original not
+ es (teamsnap) —\nLocation: Blue Valley Recreation - Field #4\n   (Arriva
+ l Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnacks 
+ : Chase Bickel\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · NE Field
+DTSTART:20260528T230000Z
+DTEND:20260529T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255938@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Stilwell Elementary S
+ chool\, NE Field\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%
+ 20Stilwell%2C%20KS%2066085\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Stilwell Elementary School - NE Field\n   (Arri
+ val Time:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kansas Bucks 8U (Thomas) · Field 11
+DTSTART:20260530T233000Z
+DTEND:20260531T011500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133539@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 6:30 PM · Starts 7:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 11\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #11\n   (Arri
+ val Time:  6:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Ben Wiedemann\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Purple Reign - Schweibert · Field 15
+DTSTART:20260603T000000Z
+DTEND:20260603T014500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133617@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 15\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #15\n   (Arri
+ val Time:  7:00 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Ben Wiedemann\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260604T230000Z
+DTEND:20260605T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255970@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Wolf Springs Elementa
+ ry School\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival Tim
+ e:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Fiene · Field 19
+DTSTART:20260608T223000Z
+DTEND:20260609T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133639@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 19\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #19\n   (Arri
+ val Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Payne Albrecht\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260611T230000Z
+DTEND:20260612T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366255971@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Wolf Springs Elementa
+ ry School\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival Tim
+ e:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Penny · Field 20
+DTSTART:20260618T223000Z
+DTEND:20260619T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133684@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Blue Valley Recreatio
+ n\, Field 20\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #20\n   (Arri
+ val Time:  5:30 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Grant Grothe\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · Field 13
+DTSTART:20260624T000000Z
+DTEND:20260624T014500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-366133710@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 13\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #13\n   (Arri
+ val Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260625T230000Z
+DTEND:20260626T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-368986335@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:00 PM · Starts 6:00 PM\nWhere: Wolf Springs Elementa
+ ry School\nMap: https://maps.apple.com/?q=9300%20W%20178th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066013\nCalendar: Ben's Baseball\n\n— Original notes
+  (teamsnap) —\nLocation: Wolf Springs Elementary School\n   (Arrival Tim
+ e:  6:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9300 W 178th St\, Overland Park\, KS 66013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Kings - Motyka · Field 18
+DTSTART:20260627T143000Z
+DTEND:20260627T161500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369457882@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 9:30 AM · Starts 10:00 AM\nWhere: Blue Valley Recreati
+ on\, Field 18\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20O
+ verland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n   (Arr
+ ival Time:  9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Prodigy Showstoppers - Trowbridge · Fi
+ eld 18
+DTSTART:20260627T190000Z
+DTEND:20260627T204500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369457918@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 18\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #18\n   (Arri
+ val Time:  2:00 PM (Central Time (US & Canada))) \n\nAssignments:\n\nSnack
+ s : Payne Albrecht\n\n
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Tournament: Future Stars Tournament · Field 18
+DTSTART:20260628T130000Z
+DTEND:20260628T173000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-368208810@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,tournament
+DESCRIPTION:Arrive 8:00 AM · Starts 8:30 AM\nWhere: Blue Valley Recreatio
+ n\, Field 18\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n   (Arriv
+ al Time:  8:00 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs TBD · Field 18
+DTSTART:20260628T190000Z
+DTEND:20260628T204500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369612827@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 2:00 PM · Starts 2:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 18\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field 18\n   (Arriv
+ al Time:  2:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260705T223000Z
+DTEND:20260706T000000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369737906@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 5:30 PM · Starts 5:30 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  5:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs KC Dingers · Field 3
+DTSTART:20260711T123000Z
+DTEND:20260711T141500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369868154@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: 3&2 Baseball East Com
+ plex\, Field 3\nMap: https://maps.apple.com/?q=18300%20W%2087th%20St%2C%20
+ Lenexa%2C%20KS%2066220\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n   (Arrival
+  Time:  7:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:18300 W 87th St\, Lenexa\, KS 66220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs MNS Meatballs · Field 3
+DTSTART:20260711T143000Z
+DTEND:20260711T154500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-369868228@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 9:30 AM · Starts 9:30 AM\nWhere: 3&2 Baseball East Com
+ plex\, Field 3\nMap: https://maps.apple.com/?q=18300%20W%2087th%20St%2C%20
+ Lenexa%2C%20KS%2066220\nCalendar: Ben's Baseball\n\n— Original notes (te
+ amsnap) —\nLocation: 3&2 East Complex Fields 1-9 - Field #3\n   (Arrival
+  Time:  9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:18300 W 87th St\, Lenexa\, KS 66220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260728T233000Z
+DTEND:20260729T010000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-370610903@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:30 PM · Starts 6:30 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260729T220000Z
+DTEND:20260729T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485806@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260803T234500Z
+DTEND:20260804T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485431@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260806T233000Z
+DTEND:20260807T010000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371064355@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:30 PM · Starts 6:30 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-East · Field
+  8 South
+DTSTART:20260809T161500Z
+DTEND:20260809T180000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591077@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Scheels Overland Pa
+ rk Soccer Complex\, Field 8 South\nMap: https://maps.apple.com/?q=13700%20
+ Switzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Socc
+ er\n\n— Original notes (playmetrics) —\nSporting City U11 PreMLS-East 
+ at KC SURF PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nS
+ cheels Overland Park Soccer Complex 8 South
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260810T234500Z
+DTEND:20260811T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485432@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260813T230500Z
+DTEND:20260814T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189557@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Field 6N
+DTSTART:20260815T010000Z
+DTEND:20260815T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370815846@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 8:00 PM · Starts 8:00 PM\nWhere: Garmin Olathe Soccer 
+ Complex\, Field 6N\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%20S
+ t%2C%20Olathe%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original note
+ s (teamsnap) —\nLocation: Garmin Olathe Soccer Complex - 6N\n   (Arrival
+  Time:  8:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs USA Prime · Field 6S
+DTSTART:20260816T160000Z
+DTEND:20260816T171500Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370815921@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 11:00 AM · Starts 11:00 AM\nWhere: Garmin Olathe Socce
+ r Complex\, Field 6S\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%2
+ 0St%2C%20Olathe%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original no
+ tes (teamsnap) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arriv
+ al Time: 11:00 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs TFAC BU11 Premier · Field 1S
+DTSTART:20260816T211500Z
+DTEND:20260816T230000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591153@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 4:15 PM · Starts 4:45 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 1S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
+ ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at TFAC BU11 Premier
+ \nArrive by 4:15 PM\nUniform: Black/Black/Black\nCompass Mineral Sporting 
+ Fields 1S
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260817T234500Z
+DTEND:20260818T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485433@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · Field 25
+DTSTART:20260819T220000Z
+DTEND:20260820T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371513410@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n   (Arri
+ val Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260819T220000Z
+DTEND:20260819T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485809@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Field South
+DTSTART:20260820T230500Z
+DTEND:20260821T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189558@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Sunrise Point Element
+ ary\, Field South\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20O
+ verland%20Park%2C%20KS%2066224\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Sunrise Point Elementary - South\n   (Arriv
+ al Time:  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Mexico · Field 4N
+DTSTART:20260822T231500Z
+DTEND:20260823T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816004@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 6:15 PM · Starts 6:15 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 4N\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origin
+ al notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 4N\n
+    (Arrival Time:  6:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Tournament vs Surf and APC Select
+DTSTART:20260823T210000Z
+DTEND:20260823T230000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:GenericCalendarEvent_2750865@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,tournament
+DESCRIPTION:Starts 4:00 PM\nMap: https://maps.apple.com/?q=Indian%20Hills%
+ 20Middle%20School%2C%20Mission%20Road%2C%20Prairie%20Village%2C%20KS\nCale
+ ndar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nFriendly ga
+ mes against Carson&#39\;s Surf team and APC Select (private academy)<br>We
+ ar Black kit!
+LAST-MODIFIED:20260927T222647Z
+LOCATION:Indian Hills Middle School\, Mission Road\, Prairie Village\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260824T234500Z
+DTEND:20260825T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485434@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260826T220000Z
+DTEND:20260826T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485810@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · Field 25
+DTSTART:20260827T000000Z
+DTEND:20260827T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371513827@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260827T230500Z
+DTEND:20260828T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189559@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260927T222647Z
+UID:bv-school:90ad5b34-0ee3-549d-8f27-92717e5f9557@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-West · Field
+  8N
+DTSTART:20260829T161500Z
+DTEND:20260829T180000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591186@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Compass Minerals Sp
+ orting Fields\, Field 8N\nMap: https://maps.apple.com/?q=1500%20N%2090th%2
+ 0St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— O
+ riginal notes (playmetrics) —\nSporting City U11 PreMLS-West at KC SURF 
+ PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nCompass Mine
+ ral Sporting Fields 8N
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Borussia U11B · Field 4 
+ South
+DTSTART:20260830T223000Z
+DTEND:20260831T001500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591207@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Garmin Olathe Soccer 
+ Complex\, Field 4 South\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
+ k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
+ nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Borussi
+ a U11B\nArrive by 5:30 PM\nUniform: Black/Black/Black\nGarmin Olathe Socce
+ r Complex 4 South
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs KC Dirt Dawgs · Field 25
+DTSTART:20260904T000000Z
+DTEND:20260904T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514155@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Navy (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260927T222647Z
+UID:bv-school:f8f25947-e8be-50d9-8b89-6194787bdc52@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260927T222647Z
+UID:bv-school:4f8c028e-280d-5c49-8e17-8a7bd5137fd7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Field South
+DTSTART:20260910T232000Z
+DTEND:20260911T004500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189561@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:20 PM · Starts 6:30 PM\nWhere: Sunrise Point Element
+ ary\, Field South\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20O
+ verland%20Park%2C%20KS%2066224\nCalendar: Ben's Baseball\n\n— Original n
+ otes (teamsnap) —\nLocation: Sunrise Point Elementary - South\n   (Arriv
+ al Time:  6:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Nebraska FC Pre ECNL · Field
+  4A
+DTSTART:20260912T134000Z
+DTEND:20260912T153000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4723330@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
+  Complex\, Field 4A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nSporting Nebraska FC Pre ECNL at KC SURF PRE EC
+ NL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE 
+ Multisports Complex Field 4A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs VSA Rush Pre ECNL · Field 5A
+DTSTART:20260912T180000Z
+DTEND:20260912T193000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4723413@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 1:00 PM · Starts 1:30 PM\nWhere: CHI Health Multisport
+  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nVSA Rush Pre ECNL at KC SURF PRE ECNL U11B (Pre
+ -ECNL)\nArrive by 1:00 PM\nUniform: White/Blue/White\nCHI NE Multisports C
+ omplex 5A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Iowa Central Pre-ECNL · Fiel
+ d 5A
+DTSTART:20260913T134000Z
+DTEND:20260913T153000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4932990@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
+  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nSporting Iowa Central Pre-ECNL at KC SURF PRE E
+ CNL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE
+  Multisports Complex 5A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Team Messi · Field 6S
+DTSTART:20260913T170000Z
+DTEND:20260913T181500Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816131@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 12:00 PM · Starts 12:00 PM\nWhere: Garmin Olathe Socce
+ r Complex\, Field 6S\nMap: https://maps.apple.com/?q=10541%20S%20Warwick%2
+ 0St%2C%20Olathe%2C%20KS%2066061\nCalendar: Ben's Soccer\n\n— Original no
+ tes (teamsnap) —\nLocation: Garmin Olathe Soccer Complex - 6S\n   (Arriv
+ al Time: 12:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Reign · Field 25
+DTSTART:20260914T220000Z
+DTEND:20260915T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514218@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Light Blue (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260916T220000Z
+DTEND:20260916T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486519@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · Field 25
+DTSTART:20260917T000000Z
+DTEND:20260917T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514336@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Navy Blue (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20260917T230500Z
+DTEND:20260918T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189562@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Sunnyside Heritage · Field 5S
+DTSTART:20260920T180000Z
+DTEND:20260920T191500Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816330@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 1:00 PM · Starts 1:00 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 5S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Ben's Soccer\n\n— Origin
+ al notes (teamsnap) —\nLocation: Compass Minerals Sporting Fields - 5S\n
+    (Arrival Time:  1:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260921T234500Z
+DTEND:20260922T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486107@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260923T220000Z
+DTEND:20260923T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486520@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Royals (Beck) · Field 25
+DTSTART:20260924T220000Z
+DTEND:20260925T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514437@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Powder Blue (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260927T222647Z
+UID:bv-school:6dcb6719-eaf8-50ba-a819-653e118b3d9a@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Mexico · Field 12N
+DTSTART:20260925T220000Z
+DTEND:20260925T231500Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816342@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:00 PM\nWhere: Scheels Overland Park
+  Soccer Complex\, Field 12N\nMap: https://maps.apple.com/?q=13700%20Switze
+ r%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n—
+  Original notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Com
+ plex - 12 N\n   (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Union KC 15/16B Pre-ECNL Navy · Field
+  8 North
+DTSTART:20260926T011500Z
+DTEND:20260926T030000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591411@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:15 PM · Starts 8:45 PM\nWhere: Scheels Overland Park
+  Soccer Complex\, Field 8 North\nMap: https://maps.apple.com/?q=13700%20Sw
+ itzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer
+ \n\n— Original notes (playmetrics) —\nUnion KC 15/16B Pre-ECNL Navy at
+  KC SURF PRE ECNL U11B\nArrive by 8:15 PM\nUniform: White/Blue/White\nSche
+ els Overland Park Soccer Complex 8 North
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Academy U11B · Field 4 No
+ rth
+DTSTART:20260927T134500Z
+DTEND:20260927T161500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591260@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:45 AM · Starts 9:15 AM\nWhere: Garmin Olathe Soccer 
+ Complex\, Field 4 North\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
+ k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
+ nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at Kansas Rush Academy 
+ U11B\nArrive by 8:45 AM\nUniform: Black/Black/Black\nGarmin Olathe Soccer 
+ Complex 4 North
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260928T234500Z
+DTEND:20260929T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486108@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · Field 25
+DTSTART:20260930T220000Z
+DTEND:20261001T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514465@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Navy Blue (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260930T220000Z
+DTEND:20260930T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486521@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20261001T230500Z
+DTEND:20261002T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189564@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-North · Fiel
+ d 2N
+DTSTART:20261004T150000Z
+DTEND:20261004T164500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591450@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 10:00 AM · Starts 10:30 AM\nWhere: Swope Soccer Villag
+ e\, Field 2N\nMap: https://maps.apple.com/?q=6310%20Lewis%20Rd%2C%20Kansas
+ %20City%2C%20MO%2064132\nCalendar: Andrew's Soccer\n\n— Original notes (
+ playmetrics) —\nSporting City U11 PreMLS-North at KC SURF PRE ECNL U11B
+ \nArrive by 10:00 AM\nUniform: White/Blue/White\nSwope Soccer Village 2N
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6310 Lewis Rd\, Kansas City\, MO 64132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261005T234500Z
+DTEND:20261006T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486109@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs KC Dirt Dawgs · Field 25
+DTSTART:20261007T000000Z
+DTEND:20261007T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514538@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Powder Blue (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261007T220000Z
+DTEND:20261007T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486522@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice
+DTSTART:20261008T230500Z
+DTEND:20261009T003000Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371189565@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 6:05 PM · Starts 6:15 PM\nWhere: Timber Creek Elementa
+ ry School\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overland
+ %20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes (t
+ eamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time: 
+  6:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260927T222647Z
+UID:bv-school:96a4f343-4d9d-56ed-82c5-7e2faa158f22@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260927T222647Z
+UID:bv-school:8bd2b694-c3ca-570f-bf48-e246f041b287@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Lightning · Field 12S
+DTSTART:20261011T001500Z
+DTEND:20261011T013000Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816435@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 7:15 PM · Starts 7:15 PM\nWhere: Scheels Overland Park
+  Soccer Complex\, Field 12S\nMap: https://maps.apple.com/?q=13700%20Switze
+ r%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n—
+  Original notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Com
+ plex - 12 S\n   (Arrival Time:  7:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Field 8S
+DTSTART:20261011T200000Z
+DTEND:20261011T214500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591472@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 8S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
+ ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Monac
+ o 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCompass Mineral Spor
+ ting Fields 8S
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261012T234500Z
+DTEND:20261013T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486110@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Reign · Field 25
+DTSTART:20261014T000000Z
+DTEND:20261014T021500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514635@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 7:00 PM · Starts 7:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Powder Blue (Arrival Time:  7:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Gold · Field 25
+DTSTART:20261014T220000Z
+DTEND:20261015T001500Z
+DTSTAMP:20260927T222647Z
+UID:ben-baseball:9335060-371514752@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: Blue Valley Recreatio
+ n\, Field 25\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%2C%20Ov
+ erland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original no
+ tes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n  \n Uni
+ form: Navy Blue (Arrival Time:  5:00 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261014T220000Z
+DTEND:20261014T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486523@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Dragons · Field 12N
+DTSTART:20261017T201500Z
+DTEND:20261017T213000Z
+DTSTAMP:20260927T222647Z
+UID:ben-soccer:9337407-370816486@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:15 PM · Starts 3:15 PM\nWhere: Scheels Overland Park
+  Soccer Complex\, Field 12N\nMap: https://maps.apple.com/?q=13700%20Switze
+ r%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n—
+  Original notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Com
+ plex - 12N\n   (Arrival Time:  3:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260927T222647Z
+UID:bv-school:4dd80ca4-8514-5d8c-bb98-86e56aaafff2@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261019T234500Z
+DTEND:20261020T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486111@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261021T220000Z
+DTEND:20261021T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486524@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Conferences
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20260927T222647Z
+UID:bv-school:953061ec-b6d3-58e3-818b-ae380ddece93@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260927T222647Z
+UID:bv-school:8b6fd716-6f3e-5a66-a752-7d2081307d76@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261026T234500Z
+DTEND:20261027T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486112@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261028T220000Z
+DTEND:20261028T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486525@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260927T222647Z
+UID:bv-school:d93b56f8-62d1-5fb8-a7df-6c4fdab1c2aa@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260927T222647Z
+UID:bv-school:4d916bc3-bf61-5f61-a282-a06c73ecac32@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Thanksgiving Break
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260927T222647Z
+UID:bv-school:9f5aa17b-ca8c-5f40-9c3f-41899445ebe8@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260927T222647Z
+UID:bv-school:5df2058d-17e1-51df-b78d-90c1fdb9d535@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Early Release K-12\, End of Semester\, PM Grade Prep (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260927T222647Z
+UID:bv-school:ba4e8d60-87bd-57b3-a991-eecc42c875b4@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Winter Break
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260927T222647Z
+UID:bv-school:78314c6c-33cc-5486-a8aa-dfefba2509f6@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Winter Break
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260927T222647Z
+UID:bv-school:ea6da471-dd0c-570d-93bc-275226a40b25@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260927T222647Z
+UID:bv-school:b6eee45e-cf81-5eed-95ac-c99c2fc0d436@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 School Resumes (Andrew & Ben)
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20260927T222647Z
+UID:bv-school:c8cd331a-5f4a-5065-8326-41a14c23ea1b@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Dr. Martin Luther King Jr. Day
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20260927T222647Z
+UID:bv-school:cd126d3d-9027-5f04-813e-4f2de29a8101@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DTSTAMP:20260927T222647Z
+UID:bv-school:315f7f94-914e-5851-9192-06be64631d82@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260927T222647Z
+UID:bv-school:75db83dd-d579-53e5-b842-edc0db694867@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+DTSTAMP:20260927T222647Z
+UID:bv-school:237d5495-719d-5d83-bc14-1c467b22fc10@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260927T222647Z
+UID:bv-school:ef8befc1-4faa-569b-89db-66cc51a201d7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Presidents' Day
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260927T222647Z
+UID:bv-school:239fc758-c0ee-554b-ac9b-d6a30419fc32@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+DTSTAMP:20260927T222647Z
+UID:bv-school:3154e360-2065-5878-b900-481f349037c1@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260927T222647Z
+UID:bv-school:3e5f1b29-be20-5f62-8dcf-e62e80cefb68@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260927T222647Z
+UID:bv-school:2a61d564-75ce-5de0-9a45-8d7d98e34adc@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Spring Break
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260927T222647Z
+UID:bv-school:43d100fc-e3b2-5add-9293-5fdb858ef5a7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260927T222647Z
+UID:bv-school:8f68b2a9-4366-5fd1-ba24-f900ab21ecad@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+DTSTAMP:20260927T222647Z
+UID:bv-school:15e869d4-cf86-598b-8871-e320443d34c3@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+DTSTAMP:20260927T222647Z
+UID:bv-school:e2f35b56-91de-563e-8c50-01da7cbe817a@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260927T222647Z
+UID:bv-school:862de4df-5d72-57df-b737-c9a7e9f81a30@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Early Release K-11\, End of Semester\, PM Grade Prep (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20260927T222647Z
+UID:bv-school:e7fe2c21-a8cf-510c-ad44-05f2b724cfe9@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Memorial Day
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20260927T222647Z
+UID:bv-school:1b7835e2-30e5-5534-844a-3501a7ae9e45@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): No Summer Learning\, Juneteenth
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20260927T222647Z
+UID:bv-school:ea6ac1be-304c-54bf-9aec-6723cf94129c@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Independence Day
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20260927T222647Z
+UID:bv-school:c218a167-6222-53b4-9d18-45c72a3df5ba@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 First Day of School EC-12\, Kindergarten Orientation (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260927T222647Z
+UID:bv-school:fcef2bbc-960a-58ff-9649-b4f0d0c02478@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+DTSTAMP:20260927T222647Z
+UID:bv-school:bedd45da-5388-5743-819a-74ac4307fbaf@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Labor Day
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260927T222647Z
+UID:bv-school:80915a0f-148f-59f0-9c94-b5b6680d750c@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20260927T222647Z
+UID:bv-school:eabe2f4f-152d-5d2d-8e34-864ace665176@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+DTSTAMP:20260927T222647Z
+UID:bv-school:80e72620-ebef-5708-97d8-1372624fe9ee@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,974 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kids-calendar-sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andrew – Everything
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260729T220000Z
+DTEND:20260729T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485806@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260803T234500Z
+DTEND:20260804T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485431@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-East · Field
+  8 South
+DTSTART:20260809T161500Z
+DTEND:20260809T180000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591077@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Scheels Overland Pa
+ rk Soccer Complex\, Field 8 South\nMap: https://maps.apple.com/?q=13700%20
+ Switzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Socc
+ er\n\n— Original notes (playmetrics) —\nSporting City U11 PreMLS-East 
+ at KC SURF PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nS
+ cheels Overland Park Soccer Complex 8 South
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260810T234500Z
+DTEND:20260811T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485432@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs TFAC BU11 Premier · Field 1S
+DTSTART:20260816T211500Z
+DTEND:20260816T230000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591153@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 4:15 PM · Starts 4:45 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 1S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
+ ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at TFAC BU11 Premier
+ \nArrive by 4:15 PM\nUniform: Black/Black/Black\nCompass Mineral Sporting 
+ Fields 1S
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260817T234500Z
+DTEND:20260818T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485433@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260819T220000Z
+DTEND:20260819T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485809@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Tournament vs Surf and APC Select
+DTSTART:20260823T210000Z
+DTEND:20260823T230000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:GenericCalendarEvent_2750865@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,tournament
+DESCRIPTION:Starts 4:00 PM\nMap: https://maps.apple.com/?q=Indian%20Hills%
+ 20Middle%20School%2C%20Mission%20Road%2C%20Prairie%20Village%2C%20KS\nCale
+ ndar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nFriendly ga
+ mes against Carson&#39\;s Surf team and APC Select (private academy)<br>We
+ ar Black kit!
+LAST-MODIFIED:20260927T222647Z
+LOCATION:Indian Hills Middle School\, Mission Road\, Prairie Village\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260824T234500Z
+DTEND:20260825T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485434@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260826T220000Z
+DTEND:20260826T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11485810@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260927T222647Z
+UID:bv-school:90ad5b34-0ee3-549d-8f27-92717e5f9557@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-West · Field
+  8N
+DTSTART:20260829T161500Z
+DTEND:20260829T180000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591186@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:15 AM · Starts 11:45 AM\nWhere: Compass Minerals Sp
+ orting Fields\, Field 8N\nMap: https://maps.apple.com/?q=1500%20N%2090th%2
+ 0St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— O
+ riginal notes (playmetrics) —\nSporting City U11 PreMLS-West at KC SURF 
+ PRE ECNL U11B\nArrive by 11:15 AM\nUniform: White/Blue/White\nCompass Mine
+ ral Sporting Fields 8N
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Borussia U11B · Field 4 
+ South
+DTSTART:20260830T223000Z
+DTEND:20260831T001500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591207@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: Garmin Olathe Soccer 
+ Complex\, Field 4 South\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
+ k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
+ nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Borussi
+ a U11B\nArrive by 5:30 PM\nUniform: Black/Black/Black\nGarmin Olathe Socce
+ r Complex 4 South
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260927T222647Z
+UID:bv-school:f8f25947-e8be-50d9-8b89-6194787bdc52@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260927T222647Z
+UID:bv-school:4f8c028e-280d-5c49-8e17-8a7bd5137fd7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Nebraska FC Pre ECNL · Field
+  4A
+DTSTART:20260912T134000Z
+DTEND:20260912T153000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4723330@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
+  Complex\, Field 4A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nSporting Nebraska FC Pre ECNL at KC SURF PRE EC
+ NL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE 
+ Multisports Complex Field 4A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs VSA Rush Pre ECNL · Field 5A
+DTSTART:20260912T180000Z
+DTEND:20260912T193000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4723413@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 1:00 PM · Starts 1:30 PM\nWhere: CHI Health Multisport
+  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nVSA Rush Pre ECNL at KC SURF PRE ECNL U11B (Pre
+ -ECNL)\nArrive by 1:00 PM\nUniform: White/Blue/White\nCHI NE Multisports C
+ omplex 5A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting Iowa Central Pre-ECNL · Fiel
+ d 5A
+DTSTART:20260913T134000Z
+DTEND:20260913T153000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4932990@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:40 AM · Starts 9:30 AM\nWhere: CHI Health Multisport
+  Complex\, Field 5A\nMap: https://maps.apple.com/?q=6925%20Eastport%20Pkwy
+ %2C%20La%20Vista%2C%20NE%2068128\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nSporting Iowa Central Pre-ECNL at KC SURF PRE E
+ CNL U11B (Pre-ECNL)\nArrive by 8:40 AM\nUniform: Black/Black/Black\nCHI NE
+  Multisports Complex 5A
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6925 Eastport Pkwy\, La Vista\, NE 68128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260916T220000Z
+DTEND:20260916T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486519@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260921T234500Z
+DTEND:20260922T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486107@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260923T220000Z
+DTEND:20260923T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486520@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260927T222647Z
+UID:bv-school:6dcb6719-eaf8-50ba-a819-653e118b3d9a@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Union KC 15/16B Pre-ECNL Navy · Field
+  8 North
+DTSTART:20260926T011500Z
+DTEND:20260926T030000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591411@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:15 PM · Starts 8:45 PM\nWhere: Scheels Overland Park
+  Soccer Complex\, Field 8 North\nMap: https://maps.apple.com/?q=13700%20Sw
+ itzer%20Rd%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer
+ \n\n— Original notes (playmetrics) —\nUnion KC 15/16B Pre-ECNL Navy at
+  KC SURF PRE ECNL U11B\nArrive by 8:15 PM\nUniform: White/Blue/White\nSche
+ els Overland Park Soccer Complex 8 North
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Academy U11B · Field 4 No
+ rth
+DTSTART:20260927T134500Z
+DTEND:20260927T161500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591260@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:45 AM · Starts 9:15 AM\nWhere: Garmin Olathe Soccer 
+ Complex\, Field 4 North\nMap: https://maps.apple.com/?q=10541%20S%20Warwic
+ k%20St%2C%20Olathe%2C%20KS%2066061\nCalendar: Andrew's Soccer\n\n— Origi
+ nal notes (playmetrics) —\nKC SURF PRE ECNL U11B at Kansas Rush Academy 
+ U11B\nArrive by 8:45 AM\nUniform: Black/Black/Black\nGarmin Olathe Soccer 
+ Complex 4 North
+LAST-MODIFIED:20260927T222647Z
+LOCATION:10541 S Warwick St\, Olathe\, KS 66061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20260928T234500Z
+DTEND:20260929T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486108@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20260930T220000Z
+DTEND:20260930T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486521@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Sporting City U11 PreMLS-North · Fiel
+ d 2N
+DTSTART:20261004T150000Z
+DTEND:20261004T164500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591450@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 10:00 AM · Starts 10:30 AM\nWhere: Swope Soccer Villag
+ e\, Field 2N\nMap: https://maps.apple.com/?q=6310%20Lewis%20Rd%2C%20Kansas
+ %20City%2C%20MO%2064132\nCalendar: Andrew's Soccer\n\n— Original notes (
+ playmetrics) —\nSporting City U11 PreMLS-North at KC SURF PRE ECNL U11B
+ \nArrive by 10:00 AM\nUniform: White/Blue/White\nSwope Soccer Village 2N
+LAST-MODIFIED:20260927T222647Z
+LOCATION:6310 Lewis Rd\, Kansas City\, MO 64132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261005T234500Z
+DTEND:20261006T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486109@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261007T220000Z
+DTEND:20261007T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486522@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260927T222647Z
+UID:bv-school:96a4f343-4d9d-56ed-82c5-7e2faa158f22@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260927T222647Z
+UID:bv-school:8bd2b694-c3ca-570f-bf48-e246f041b287@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Field 8S
+DTSTART:20261011T200000Z
+DTEND:20261011T214500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Game_4591472@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Spor
+ ting Fields\, Field 8S\nMap: https://maps.apple.com/?q=1500%20N%2090th%20S
+ t%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's Soccer\n\n— Ori
+ ginal notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Monac
+ o 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCompass Mineral Spor
+ ting Fields 8S
+LAST-MODIFIED:20260927T222647Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261012T234500Z
+DTEND:20261013T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486110@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261014T220000Z
+DTEND:20261014T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486523@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260927T222647Z
+UID:bv-school:4dd80ca4-8514-5d8c-bb98-86e56aaafff2@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261019T234500Z
+DTEND:20261020T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486111@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261021T220000Z
+DTEND:20261021T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486524@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Conferences
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20260927T222647Z
+UID:bv-school:953061ec-b6d3-58e3-818b-ae380ddece93@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260927T222647Z
+UID:bv-school:8b6fd716-6f3e-5a66-a752-7d2081307d76@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 11
+DTSTART:20261026T234500Z
+DTEND:20261027T010000Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486112@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:45 PM\nWhere: Scheels Overland Park Soccer Complex\, 
+ Field 11\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%20Overlan
+ d%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Original notes 
+ (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20260927T222647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Field 14
+DTSTART:20261028T220000Z
+DTEND:20261028T231500Z
+DTSTAMP:20260927T222647Z
+UID:andrew-soccer:Practice_11486525@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Soccer Park\, Field 14\nMap: h
+ ttps://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%20KS%2066
+ 062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nHe
+ ritage Soccer Park 14
+LAST-MODIFIED:20260927T222647Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260927T222647Z
+UID:bv-school:d93b56f8-62d1-5fb8-a7df-6c4fdab1c2aa@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260927T222647Z
+UID:bv-school:4d916bc3-bf61-5f61-a282-a06c73ecac32@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Thanksgiving Break
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260927T222647Z
+UID:bv-school:9f5aa17b-ca8c-5f40-9c3f-41899445ebe8@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260927T222647Z
+UID:bv-school:5df2058d-17e1-51df-b78d-90c1fdb9d535@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Early Release K-12\, End of Semester\, PM Grade Prep (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260927T222647Z
+UID:bv-school:ba4e8d60-87bd-57b3-a991-eecc42c875b4@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Winter Break
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260927T222647Z
+UID:bv-school:78314c6c-33cc-5486-a8aa-dfefba2509f6@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Winter Break
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260927T222647Z
+UID:bv-school:ea6da471-dd0c-570d-93bc-275226a40b25@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260927T222647Z
+UID:bv-school:b6eee45e-cf81-5eed-95ac-c99c2fc0d436@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 School Resumes (Andrew & Ben)
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20260927T222647Z
+UID:bv-school:c8cd331a-5f4a-5065-8326-41a14c23ea1b@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Dr. Martin Luther King Jr. Day
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20260927T222647Z
+UID:bv-school:cd126d3d-9027-5f04-813e-4f2de29a8101@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DTSTAMP:20260927T222647Z
+UID:bv-school:315f7f94-914e-5851-9192-06be64631d82@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260927T222647Z
+UID:bv-school:75db83dd-d579-53e5-b842-edc0db694867@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+DTSTAMP:20260927T222647Z
+UID:bv-school:237d5495-719d-5d83-bc14-1c467b22fc10@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260927T222647Z
+UID:bv-school:ef8befc1-4faa-569b-89db-66cc51a201d7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Presidents' Day
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260927T222647Z
+UID:bv-school:239fc758-c0ee-554b-ac9b-d6a30419fc32@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+DTSTAMP:20260927T222647Z
+UID:bv-school:3154e360-2065-5878-b900-481f349037c1@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260927T222647Z
+UID:bv-school:3e5f1b29-be20-5f62-8dcf-e62e80cefb68@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260927T222647Z
+UID:bv-school:2a61d564-75ce-5de0-9a45-8d7d98e34adc@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Spring Break
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260927T222647Z
+UID:bv-school:43d100fc-e3b2-5add-9293-5fdb858ef5a7@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260927T222647Z
+UID:bv-school:8f68b2a9-4366-5fd1-ba24-f900ab21ecad@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+DTSTAMP:20260927T222647Z
+UID:bv-school:15e869d4-cf86-598b-8871-e320443d34c3@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+DTSTAMP:20260927T222647Z
+UID:bv-school:e2f35b56-91de-563e-8c50-01da7cbe817a@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260927T222647Z
+UID:bv-school:862de4df-5d72-57df-b737-c9a7e9f81a30@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 Early Release K-11\, End of Semester\, PM Grade Prep (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20260927T222647Z
+UID:bv-school:e7fe2c21-a8cf-510c-ad44-05f2b724cfe9@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Memorial Day
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20260927T222647Z
+UID:bv-school:1b7835e2-30e5-5534-844a-3501a7ae9e45@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): No Summer Learning\, Juneteenth
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20260927T222647Z
+UID:bv-school:ea6ac1be-304c-54bf-9aec-6723cf94129c@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Independence Day
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20260927T222647Z
+UID:bv-school:c218a167-6222-53b4-9d18-45c72a3df5ba@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 First Day of School EC-12\, Kindergarten Orientation (Andrew 
+ & Ben)
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260927T222647Z
+UID:bv-school:fcef2bbc-960a-58ff-9649-b4f0d0c02478@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+DTSTAMP:20260927T222647Z
+UID:bv-school:bedd45da-5388-5743-819a-74ac4307fbaf@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Labor Day
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260927T222647Z
+UID:bv-school:80915a0f-148f-59f0-9c94-b5b6680d750c@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20260927T222647Z
+UID:bv-school:eabe2f4f-152d-5d2d-8e34-864ace665176@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+DTSTAMP:20260927T222647Z
+UID:bv-school:80e72620-ebef-5708-97d8-1372624fe9ee@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+END:VCALENDAR
