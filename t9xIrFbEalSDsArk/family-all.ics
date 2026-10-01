@@ -8,38 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · BV Rec Field 25
-DTSTART:20260930T220000Z
-DTEND:20261001T001500Z
-DTSTAMP:20260927T224123Z
-UID:ben-baseball:9335060-371514465@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Baseball,game
-DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
-  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
- 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
- inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
-  \n Uniform: Navy Blue (Arrival Time:  5:00 PM (Central Time (US & Canada)
- )) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:9701 W 137th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
-DTSTART:20260930T220000Z
-DTEND:20260930T231500Z
-DTSTAMP:20260927T224123Z
-UID:andrew-soccer:Practice_11486521@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
- )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
- 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
- ) —\nHeritage Soccer Park 14
-LAST-MODIFIED:20260927T224123Z
-LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
 DTSTART:20261001T230500Z
 DTEND:20261002T003000Z
@@ -719,6 +687,38 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
+DTSTART:20260930T220000Z
+DTEND:20260930T231500Z
+DTSTAMP:20260927T224123Z
+UID:andrew-soccer:Practice_11486521@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
+ )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
+ 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
+ ) —\nHeritage Soccer Park 14
+LAST-MODIFIED:20260927T224123Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Game vs Blue Bananas - Black · BV Rec Field 25
+DTSTART:20260930T220000Z
+DTEND:20261001T001500Z
+DTSTAMP:20260927T224123Z
+UID:ben-baseball:9335060-371514465@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Baseball,game
+DESCRIPTION:Arrive 5:00 PM · Starts 5:30 PM\nWhere: BV Rec Field 25 (Blue
+  Valley Recreation)\nMap: https://maps.apple.com/?q=9701%20W%20137th%20St%
+ 2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Orig
+ inal notes (teamsnap) —\nLocation: Blue Valley Recreation - Field #25\n 
+  \n Uniform: Navy Blue (Arrival Time:  5:00 PM (Central Time (US & Canada)
+ )) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:9701 W 137th St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
