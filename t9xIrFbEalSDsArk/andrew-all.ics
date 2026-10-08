@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
-DTSTART:20261007T220000Z
-DTEND:20261007T231500Z
-DTSTAMP:20260927T224123Z
-UID:andrew-soccer:Practice_11486522@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
- )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
- 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
- ) —\nHeritage Soccer Park 14
-LAST-MODIFIED:20260927T224123Z
-LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -539,6 +524,43 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DTSTAMP:20261008T172420Z
+UID:bv-school:9fc858c8-e752-5efe-ad04-eb2ebcde23c4@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20261008T172420Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DTSTAMP:20261008T172420Z
+UID:bv-school:e3a46eec-daa9-5920-9805-5d2f8637541d@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20261008T172420Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
+DTSTART:20261007T220000Z
+DTEND:20261007T231500Z
+DTSTAMP:20260927T224123Z
+UID:andrew-soccer:Practice_11486522@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
+ )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
+ 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
+ ) —\nHeritage Soccer Park 14
+LAST-MODIFIED:20260927T224123Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
