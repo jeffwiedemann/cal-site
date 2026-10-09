@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20261008T222000Z
-DTEND:20261008T234500Z
-DTSTAMP:20261008T172420Z
-UID:ben-baseball:9335060-371189565@kids-calendar-sync
-SEQUENCE:2
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Arrive 5:20 PM · Starts 5:30 PM\nWhere: Timber Creek Elem (Ti
- mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
- t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
- — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
- l\n   (Arrival Time:  5:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261008T172420Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): End of Quarter
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -628,6 +612,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261008T172420Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20261008T222000Z
+DTEND:20261008T234500Z
+DTSTAMP:20261008T172420Z
+UID:ben-baseball:9335060-371189565@kids-calendar-sync
+SEQUENCE:2
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Arrive 5:20 PM · Starts 5:30 PM\nWhere: Timber Creek Elem (Ti
+ mber Creek Elementary School)\nMap: https://maps.apple.com/?q=16451%20Flin
+ t%20St%2C%20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n
+ — Original notes (teamsnap) —\nLocation: Timber Creek Elementary Schoo
+ l\n   (Arrival Time:  5:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261008T172420Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
