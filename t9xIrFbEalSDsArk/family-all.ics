@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs Lightning · Scheels Field 12S
-DTSTART:20261011T001500Z
-DTEND:20261011T013000Z
-DTSTAMP:20260927T224123Z
-UID:ben-soccer:9337407-370816435@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Starts 7:15 PM\nWhere: Scheels Field 12S (Scheels Overland Par
- k Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%
- 20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n— Original 
- notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Complex - 12 
- S\n   (Arrival Time:  7:15 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20260927T224123Z
-LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Compass Min
  erals Field 8S
 DTSTART:20261011T200000Z
@@ -590,6 +574,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261008T172420Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs Lightning · Scheels Field 12S
+DTSTART:20261011T001500Z
+DTEND:20261011T013000Z
+DTSTAMP:20260927T224123Z
+UID:ben-soccer:9337407-370816435@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Starts 7:15 PM\nWhere: Scheels Field 12S (Scheels Overland Par
+ k Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%
+ 20Overland%20Park%2C%20KS%2066221\nCalendar: Ben's Soccer\n\n— Original 
+ notes (teamsnap) —\nLocation: Scheels Overland Park Soccer Complex - 12 
+ S\n   (Arrival Time:  7:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20260927T224123Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
