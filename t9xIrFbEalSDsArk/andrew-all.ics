@@ -8,24 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Compass Min
- erals Field 8S
-DTSTART:20261011T200000Z
-DTEND:20261011T214500Z
-DTSTAMP:20260927T224123Z
-UID:andrew-soccer:Game_4591472@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Fiel
- d 8S (Compass Minerals Sporting Fields)\nMap: https://maps.apple.com/?q=15
- 00%20N%2090th%20St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's 
- Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at K
- C Athletics Monaco 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCom
- pass Mineral Sporting Fields 8S
-LAST-MODIFIED:20260927T224123Z
-LOCATION:1500 N 90th St\, Kansas City\, KS 66112
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
 DTSTART:20261012T234500Z
 DTEND:20261013T010000Z
@@ -524,6 +506,24 @@ SEQUENCE:0
 CATEGORIES:Both,School,school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261008T172420Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco 11B · Compass Min
+ erals Field 8S
+DTSTART:20261011T200000Z
+DTEND:20261011T214500Z
+DTSTAMP:20260927T224123Z
+UID:andrew-soccer:Game_4591472@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 3:00 PM · Starts 3:30 PM\nWhere: Compass Minerals Fiel
+ d 8S (Compass Minerals Sporting Fields)\nMap: https://maps.apple.com/?q=15
+ 00%20N%2090th%20St%2C%20Kansas%20City%2C%20KS%2066112\nCalendar: Andrew's 
+ Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U11B at K
+ C Athletics Monaco 11B\nArrive by 3:00 PM\nUniform: Black/Black/Black\nCom
+ pass Mineral Sporting Fields 8S
+LAST-MODIFIED:20260927T224123Z
+LOCATION:1500 N 90th St\, Kansas City\, KS 66112
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 1/2 Day Grade Prep (Andrew & Ben)
