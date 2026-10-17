@@ -50,6 +50,21 @@ LAST-MODIFIED:20260927T224123Z
 LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508567@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
 DTSTART:20261021T220000Z
 DTEND:20261021T231500Z
@@ -119,6 +134,21 @@ LAST-MODIFIED:20260927T224123Z
 LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508568@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
 DTSTART:20261028T220000Z
 DTEND:20261028T231500Z
@@ -134,6 +164,37 @@ LAST-MODIFIED:20260927T224123Z
 LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508569@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261106T010500Z
+DTEND:20261106T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261654@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -143,6 +204,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
+DTSTART:20261107T192000Z
+DTEND:20261107T202000Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261742@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
+ s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
+ me:  1:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
@@ -156,6 +233,84 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508695@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261113T010500Z
+DTEND:20261113T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261655@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
+DTSTART:20261114T192000Z
+DTEND:20261114T202000Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261743@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
+ s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
+ me:  1:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508696@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261120T010500Z
+DTEND:20261120T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261656@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Thanksgiving Break
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
@@ -167,6 +322,37 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261202T000000Z
+DTEND:20261202T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508698@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261204T010500Z
+DTEND:20261204T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261658@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
@@ -176,6 +362,68 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261209T000000Z
+DTEND:20261209T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508801@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
+DTSTART:20261212T010500Z
+DTEND:20261212T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261659@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
+ s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
+ me:  7:05 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261216T000000Z
+DTEND:20261216T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508802@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261218T010500Z
+DTEND:20261218T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261660@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 Early Release K-12\, End of Semester\, PM Grade Prep (Andrew 
@@ -234,6 +482,38 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270108T010500Z
+DTEND:20270108T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261663@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270115T010500Z
+DTEND:20270115T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261664@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Dr. Martin Luther King Jr. Day
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
@@ -245,6 +525,38 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270122T010500Z
+DTEND:20270122T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261665@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270129T010500Z
+DTEND:20270129T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261666@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
@@ -254,6 +566,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270205T010500Z
+DTEND:20270205T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261667@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
@@ -298,6 +626,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20270219T010500Z
+DTEND:20270219T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261669@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
