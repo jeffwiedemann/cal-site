@@ -86,6 +86,22 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
+DTSTART:20261025T202500Z
+DTEND:20261025T215000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349378@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:25 PM · Starts 3:40 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Timbers at KCL Whitecaps\nArrive by 3:25 PM\nMerriam Faci
+ lity Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚾ Ben's Baseball Game vs Reign · BV Rec Field 23
 DTSTART:20261026T220000Z
 DTEND:20261027T001500Z
@@ -146,6 +162,22 @@ DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
  ) —\nHeritage Soccer Park 14
 LAST-MODIFIED:20260927T224123Z
 LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Crew · Merriam Field 5
+DTSTART:20261101T201500Z
+DTEND:20261101T214000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349405@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 2:15 PM · Starts 2:30 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Whitecaps at KCL Crew\nArrive by 2:15 PM\nMerriam Facilit
+ y Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
@@ -236,6 +268,38 @@ DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
   PM (Central Time (US & Canada))) 
 LAST-MODIFIED:20261017T163531Z
 LOCATION:12501 W 175th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 5
+DTSTART:20261107T214500Z
+DTEND:20261107T231000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349428@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:45 PM · Starts 4:00 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nPM Little Llamas at KCL Whitecaps\nArrive by 3:45 PM\nMerriam
+  Facility Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 6
+DTSTART:20261108T192500Z
+DTEND:20261108T205000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349442@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 1:25 PM · Starts 1:40 PM\nWhere: Merriam Field 6 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Whitecaps at KCL Timbers\nArrive by 1:25 PM\nMerriam Faci
+ lity Field 6
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
@@ -375,6 +439,22 @@ LAST-MODIFIED:20261017T163531Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
+DTSTART:20261122T201500Z
+DTEND:20261122T214000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349501@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 2:15 PM · Starts 2:30 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Timbers at KCL Whitecaps\nArrive by 2:15 PM\nMerriam Faci
+ lity Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Thanksgiving Break
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
@@ -444,6 +524,22 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Sounders · Merriam Field 6
+DTSTART:20261205T175500Z
+DTEND:20261205T192000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349527@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 11:55 AM · Starts 12:10 PM\nWhere: Merriam Field 6 (Me
+ rriam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20
+ Merriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (pla
+ ymetrics) —\nKCL Sounders at KCL Whitecaps\nArrive by 11:55 AM\nMerriam 
+ Facility Field 6
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Pleasant Ridge MS Aux Gym
 DTSTART:20261208T010500Z
 DTEND:20261208T020500Z
@@ -489,6 +585,22 @@ DESCRIPTION:Starts 7:05 PM\nWhere: Timber Creek Elem (Timber Creek Element
  me:  7:05 PM (Central Time (US & Canada))) 
 LAST-MODIFIED:20261017T163219Z
 LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 6
+DTSTART:20261213T214500Z
+DTEND:20261213T231000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349569@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:45 PM · Starts 4:00 PM\nWhere: Merriam Field 6 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nPM Little Llamas at KCL Whitecaps\nArrive by 3:45 PM\nMerriam
+  Facility Field 6
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
@@ -548,6 +660,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Crew · Merriam Field 5
+DTSTART:20261220T190500Z
+DTEND:20261220T203000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349594@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 1:05 PM · Starts 1:20 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Whitecaps at KCL Crew\nArrive by 1:05 PM\nMerriam Facilit
+ y Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Winter Break
