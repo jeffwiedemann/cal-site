@@ -19,21 +19,6 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261017T163219Z
-UID:ben-soccer-whitecaps:Practice_13508567@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
- : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
- 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
- am Facility Field B
-LAST-MODIFIED:20261017T163219Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
 DTSTART:20261021T220000Z
 DTEND:20261021T231500Z
@@ -58,6 +43,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20261022T223000Z
+DTEND:20261022T234500Z
+DTSTAMP:20261021T151429Z
+UID:ben-baseball:9335060-375401537@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 5:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
+ :  5:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261021T151429Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben)
@@ -1185,6 +1186,32 @@ SEQUENCE:0
 CATEGORIES:Both,School,school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261018T140135Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben)
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+DTSTAMP:20261021T151429Z
+UID:bv-school:44eb2d9d-11c0-503d-a789-2ad4f186e8b3@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20261021T151429Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508567@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
