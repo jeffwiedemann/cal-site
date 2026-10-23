@@ -19,33 +19,6 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Conferences
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20260927T222647Z
-UID:bv-school:953061ec-b6d3-58e3-818b-ae380ddece93@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
-DTSTART:20261022T223000Z
-DTEND:20261022T234500Z
-DTSTAMP:20261021T151429Z
-UID:ben-baseball:9335060-375401537@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Baseball,practice
-DESCRIPTION:Starts 5:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
- (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
- :  5:30 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261021T151429Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben)
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -1568,6 +1541,33 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261022T151647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Ben's Baseball Practice · Timber Creek Elem
+DTSTART:20261022T223000Z
+DTEND:20261022T234500Z
+DTSTAMP:20261021T151429Z
+UID:ben-baseball:9335060-375401537@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Baseball,practice
+DESCRIPTION:Starts 5:30 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Baseball\n\n— Original notes 
+ (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Time
+ :  5:30 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261021T151429Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Conferences
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20260927T222647Z
+UID:bv-school:953061ec-b6d3-58e3-818b-ae380ddece93@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
