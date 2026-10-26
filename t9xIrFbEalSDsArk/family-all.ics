@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
-DTSTART:20261025T202500Z
-DTEND:20261025T215000Z
-DTSTAMP:20261019T165921Z
-UID:ben-soccer-whitecaps:Game_5349378@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Arrive 3:25 PM · Starts 3:40 PM\nWhere: Merriam Field 5 (Merr
- iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
- rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
- etrics) —\nKCL Timbers at KCL Whitecaps\nArrive by 3:25 PM\nMerriam Faci
- lity Field 5
-LAST-MODIFIED:20261019T165921Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚾ Ben's Baseball Game vs Reign · BV Rec Field 23
 DTSTART:20261026T220000Z
 DTEND:20261027T001500Z
@@ -1519,6 +1503,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261022T151647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
+DTSTART:20261025T202500Z
+DTEND:20261025T215000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349378@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:25 PM · Starts 3:40 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nKCL Timbers at KCL Whitecaps\nArrive by 3:25 PM\nMerriam Faci
+ lity Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben)
