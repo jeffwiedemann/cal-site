@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261017T163219Z
-UID:ben-soccer-whitecaps:Practice_13508568@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
- : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
- 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
- am Facility Field B
-LAST-MODIFIED:20261017T163219Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
 DTSTART:20261028T220000Z
 DTEND:20261028T231500Z
@@ -324,6 +309,22 @@ DESCRIPTION:Starts 6:30 PM\nMap: https://maps.apple.com/?q=16201%20Shawnee
  Indoor Turf
 LAST-MODIFIED:20261022T151647Z
 LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Game · Pleasant Ridge MS
+DTSTART:20261117T014500Z
+DTEND:20261117T030000Z
+DTSTAMP:20261028T163758Z
+UID:andrew-basketball:9030749-375670693@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,game
+DESCRIPTION:Starts 7:45 PM\nWhere: Pleasant Ridge MS (Pleasant Ridge Middl
+ e School)\nMap: https://maps.apple.com/?q=9000%20W%20165th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original 
+ notes (teamsnap) —\nLocation: Pleasant Ridge Middle School\n   (Arrival 
+ Time:  7:45 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261028T163758Z
+LOCATION:9000 W 165th St\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B

@@ -169,6 +169,22 @@ LAST-MODIFIED:20261022T151647Z
 LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Game · Pleasant Ridge MS
+DTSTART:20261117T014500Z
+DTEND:20261117T030000Z
+DTSTAMP:20261028T163758Z
+UID:andrew-basketball:9030749-375670693@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,game
+DESCRIPTION:Starts 7:45 PM\nWhere: Pleasant Ridge MS (Pleasant Ridge Middl
+ e School)\nMap: https://maps.apple.com/?q=9000%20W%20165th%20St%2C%20Overl
+ and%20Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original 
+ notes (teamsnap) —\nLocation: Pleasant Ridge Middle School\n   (Arrival 
+ Time:  7:45 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261028T163758Z
+LOCATION:9000 W 165th St\, Overland Park\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
 DTSTART:20261118T233000Z
 DTEND:20261119T003000Z

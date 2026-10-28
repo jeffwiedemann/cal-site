@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261017T163219Z
-UID:ben-soccer-whitecaps:Practice_13508568@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
- : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
- 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
- am Facility Field B
-LAST-MODIFIED:20261017T163219Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs KCL Crew · Merriam Field 5
 DTSTART:20261101T201500Z
 DTEND:20261101T214000Z
