@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
-DTSTART:20261028T220000Z
-DTEND:20261028T231500Z
-DTSTAMP:20260927T224123Z
-UID:andrew-soccer:Practice_11486525@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
- )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
- 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
- ) —\nHeritage Soccer Park 14
-LAST-MODIFIED:20260927T224123Z
-LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice
 DTSTART:20261103T003000Z
 DTEND:20261103T013000Z
@@ -1046,6 +1031,32 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261022T151647Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+DTSTAMP:20261029T165551Z
+UID:bv-school:cba7a47d-3928-5b3a-9e70-5f05f83416ba@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20261029T165551Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Heritage Field 14
+DTSTART:20261028T220000Z
+DTEND:20261028T231500Z
+DTSTAMP:20260927T224123Z
+UID:andrew-soccer:Practice_11486525@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:00 PM\nWhere: Heritage Field 14 (Heritage Soccer Park
+ )\nMap: https://maps.apple.com/?q=17255%20S%20Lackman%20Rd%2C%20Olathe%2C%
+ 20KS%2066062\nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics
+ ) —\nHeritage Soccer Park 14
+LAST-MODIFIED:20260927T224123Z
+LOCATION:17255 S Lackman Rd\, Olathe\, KS 66062
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
