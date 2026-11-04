@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
-DTSTART:20261104T000000Z
-DTEND:20261104T010000Z
-DTSTAMP:20261017T163219Z
-UID:ben-soccer-whitecaps:Practice_13508569@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
- : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
- 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
- am Facility Field B
-LAST-MODIFIED:20261017T163219Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
 DTSTART:20261104T233000Z
 DTEND:20261105T003000Z
@@ -127,6 +112,22 @@ DESCRIPTION:Arrive 3:45 PM · Starts 4:00 PM\nWhere: Merriam Field 5 (Merr
   Facility Field 5
 LAST-MODIFIED:20261019T165921Z
 LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
+DTSTART:20261108T173000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422687@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:30 AM · Starts 12:00 PM\nMap: https://maps.apple.co
+ m/?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: 
+ Andrew's Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL 
+ U11B at KC Athletics Monaco U11B (Indoor)\nArrive by 11:30 AM\nUniform: Bl
+ ack/Black/Black\nAdventHealth Sports Park at Bluhawk Indoor Turf 1 Field 1
+LAST-MODIFIED:20261104T175902Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 6
@@ -542,6 +543,24 @@ LAST-MODIFIED:20261019T165921Z
 LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE - ECNL U12B · New Century
+  FieldHouse Turf Field
+DTSTART:20261206T013000Z
+DTEND:20261206T030000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422702@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 7:30 PM · Starts 8:00 PM\nWhere: New Century FieldHous
+ e Turf Field\nMap: https://maps.apple.com/?q=551%20New%20Century%20Pkwy%2C
+ %20New%20Century%2C%20KS%2066031\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nKC SURF PRE - ECNL U12B at KC SURF PRE ECNL U11
+ B (Indoor)\nArrive by 7:30 PM\nUniform: White/Blue/White\nNew Century Fiel
+ dHouse Turf Field
+LAST-MODIFIED:20261104T175902Z
+LOCATION:551 New Century Pkwy\, New Century\, KS 66031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice
 DTSTART:20261208T003000Z
 DTEND:20261208T013000Z
@@ -617,6 +636,22 @@ DESCRIPTION:Starts 7:05 PM\nWhere: Timber Creek Elem (Timber Creek Element
  me:  7:05 PM (Central Time (US & Canada))) 
 LAST-MODIFIED:20261017T163219Z
 LOCATION:16451 Flint St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE ECNL U12B BLUE
+DTSTART:20261212T213000Z
+DTEND:20261212T230000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422714@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 3:30 PM · Starts 4:00 PM\nMap: https://maps.apple.com/
+ ?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U1
+ 2B BLUE at KC SURF PRE ECNL U11B (Indoor)\nArrive by 3:30 PM\nUniform: Whi
+ te/Blue/White\nAdventHealth Sports Park at Bluhawk Indoor Turf 2 Field 2
+LAST-MODIFIED:20261104T175902Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 6
@@ -908,6 +943,22 @@ LAST-MODIFIED:20261017T163531Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B
+DTSTART:20270115T233000Z
+DTEND:20270116T010000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422720@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nMap: https://maps.apple.com/
+ ?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nKC Athletics Monaco
+  U11B at KC SURF PRE ECNL U11B (Indoor)\nArrive by 5:30 PM\nUniform: White
+ /Blue/White\nAdventHealth Sports Park at Bluhawk Indoor Turf 1 Field 1
+LAST-MODIFIED:20261104T175902Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Dr. Martin Luther King Jr. Day
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
@@ -1054,6 +1105,22 @@ DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE ECNL U12B BLUE
+DTSTART:20270130T023000Z
+DTEND:20270130T040000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422724@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 8:30 PM · Starts 9:00 PM\nMap: https://maps.apple.com/
+ ?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: An
+ drew's Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL U1
+ 2B BLUE at KC SURF PRE ECNL U11B (Indoor)\nArrive by 8:30 PM\nUniform: Whi
+ te/Blue/White\nAdventHealth Sports Park at Bluhawk Indoor Turf 1 Field 1
+LAST-MODIFIED:20261104T175902Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice
 DTSTART:20270202T003000Z
 DTEND:20270202T013000Z
@@ -1114,6 +1181,24 @@ DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  :10 PM (Central Time (US & Canada))) 
 LAST-MODIFIED:20261017T163531Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor) · N
+ ew Century FieldHouse Turf Field
+DTSTART:20270207T133000Z
+DTEND:20270207T150000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422732@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: New Century FieldHous
+ e Turf Field\nMap: https://maps.apple.com/?q=551%20New%20Century%20Pkwy%2C
+ %20New%20Century%2C%20KS%2066031\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nKC SURF PRE ECNL U11B at KC Athletics Monaco U1
+ 1B (Indoor)\nArrive by 7:30 AM\nUniform: Black/Black/Black\nNew Century Fi
+ eldHouse Turf Field
+LAST-MODIFIED:20261104T175902Z
+LOCATION:551 New Century Pkwy\, New Century\, KS 66031
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 Conferences (Refer to building schedules) (Andrew & Ben)
@@ -1250,6 +1335,24 @@ DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  :10 PM (Central Time (US & Canada))) 
 LAST-MODIFIED:20261017T163531Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE - ECNL U12B · New Century
+  FieldHouse Turf Field
+DTSTART:20270220T233000Z
+DTEND:20270221T010000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422739@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: New Century FieldHous
+ e Turf Field\nMap: https://maps.apple.com/?q=551%20New%20Century%20Pkwy%2C
+ %20New%20Century%2C%20KS%2066031\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nKC SURF PRE - ECNL U12B at KC SURF PRE ECNL U11
+ B (Indoor)\nArrive by 5:30 PM\nUniform: White/Blue/White\nNew Century Fiel
+ dHouse Turf Field
+LAST-MODIFIED:20261104T175902Z
+LOCATION:551 New Century Pkwy\, New Century\, KS 66031
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
@@ -1516,6 +1619,21 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508569@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice
