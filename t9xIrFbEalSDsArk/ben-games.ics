@@ -40,6 +40,22 @@ LAST-MODIFIED:20261019T165921Z
 LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Game vs Goeglein · Stilwell Elem
+DTSTART:20261121T153000Z
+DTEND:20261121T170000Z
+DTSTAMP:20261107T162611Z
+UID:ben-basketball:9075677-376129214@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,game
+DESCRIPTION:Arrive 9:30 AM · Starts 9:45 AM\nWhere: Stilwell Elem (Stilwe
+ ll Elementary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20S
+ t%2C%20Stilwell%2C%20KS%2066085\nCalendar: Ben's Basketball\n\n— Origina
+ l notes (teamsnap) —\nLocation: Stilwell Elementary School\n  \n Uniform
+ : Green (Arrival Time:  9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
 DTSTART:20261122T201500Z
 DTEND:20261122T214000Z
@@ -70,6 +86,38 @@ DESCRIPTION:Arrive 11:55 AM · Starts 12:10 PM\nWhere: Merriam Field 6 (Me
  Facility Field 6
 LAST-MODIFIED:20261019T165921Z
 LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Game vs Whitworth · Stilwell Elem
+DTSTART:20261205T231500Z
+DTEND:20261206T003000Z
+DTSTAMP:20261107T162611Z
+UID:ben-basketball:9075677-376129254@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,game
+DESCRIPTION:Starts 5:15 PM\nWhere: Stilwell Elem (Stilwell Elementary Scho
+ ol)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20St%2C%20Stilwell%2C
+ %20KS%2066085\nCalendar: Ben's Basketball\n\n— Original notes (teamsnap)
+  —\nLocation: Stilwell Elementary School\n  \n Uniform: Black (Arrival T
+ ime:  5:15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Game vs Byrd · Stilwell Elem
+DTSTART:20261212T164500Z
+DTEND:20261212T181500Z
+DTSTAMP:20261107T162611Z
+UID:ben-basketball:9075677-376129281@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,game
+DESCRIPTION:Arrive 10:45 AM · Starts 11:00 AM\nWhere: Stilwell Elem (Stil
+ well Elementary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%2
+ 0St%2C%20Stilwell%2C%20KS%2066085\nCalendar: Ben's Basketball\n\n— Origi
+ nal notes (teamsnap) —\nLocation: Stilwell Elementary School\n  \n Unifo
+ rm: Black (Arrival Time: 10:45 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 6

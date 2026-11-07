@@ -93,6 +93,38 @@ LAST-MODIFIED:20261028T163758Z
 LOCATION:9000 W 165th St\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Game vs Snyder · Blue Valley Academy Gym
+DTSTART:20261121T180000Z
+DTEND:20261121T191500Z
+DTSTAMP:20261107T162611Z
+UID:andrew-basketball:9030749-376127019@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,game
+DESCRIPTION:Starts 12:00 PM\nWhere: Blue Valley Academy Gym\nMap: https://
+ maps.apple.com/?q=7500%20W%20149th%20Terr%2C%20Overland%20Park%2C%20KS%206
+ 6223\nCalendar: Andrew's Basketball\n\n— Original notes (teamsnap) —\n
+ Location: Blue Valley Academy Gym\n  \n Uniform: Black (Arrival Time: 12:0
+ 0 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:7500 W 149th Terr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Game vs Grothe · Blue Valley Academy Gym
+DTSTART:20261205T191000Z
+DTEND:20261205T202500Z
+DTSTAMP:20261107T162611Z
+UID:andrew-basketball:9030749-376127042@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,game
+DESCRIPTION:Starts 1:10 PM\nWhere: Blue Valley Academy Gym\nMap: https://m
+ aps.apple.com/?q=7500%20W%20149th%20Terr%2C%20Overland%20Park%2C%20KS%2066
+ 223\nCalendar: Andrew's Basketball\n\n— Original notes (teamsnap) —\nL
+ ocation: Blue Valley Academy Gym\n  \n Uniform: White (Arrival Time:  1:10
+  PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:7500 W 149th Terr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE - ECNL U12B · New Century
   FieldHouse Turf Field
 DTSTART:20261206T013000Z
@@ -109,6 +141,22 @@ DESCRIPTION:Arrive 7:30 PM · Starts 8:00 PM\nWhere: New Century FieldHous
  dHouse Turf Field
 LAST-MODIFIED:20261104T175902Z
 LOCATION:551 New Century Pkwy\, New Century\, KS 66031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Game vs Kiene · Harmony Middle School
+DTSTART:20261206T181000Z
+DTEND:20261206T192500Z
+DTSTAMP:20261107T162611Z
+UID:andrew-basketball:9030749-376127194@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,game
+DESCRIPTION:Starts 12:10 PM\nWhere: Harmony Middle School\nMap: https://ma
+ ps.apple.com/?q=10101%20W%20141st%20St%2C%20Overland%20Park%2C%20KS%206622
+ 1\nCalendar: Andrew's Basketball\n\n— Original notes (teamsnap) —\nLoc
+ ation: Harmony Middle School\n  \n Uniform: Black (Arrival Time: 12:10 PM 
+ (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:10101 W 141st St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC SURF PRE ECNL U12B BLUE
