@@ -8,54 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
-DTSTART:20261107T192000Z
-DTEND:20261107T202000Z
-DTSTAMP:20261017T163219Z
-UID:ben-basketball:9075677-375261742@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Basketball,practice
-DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
- s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
- me:  1:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163219Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
-DTSTART:20261107T213000Z
-DTEND:20261107T230000Z
-DTSTAMP:20261017T163531Z
-UID:andrew-basketball:9030749-375261980@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
- )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
- ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
- teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
-  PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
-LOCATION:12501 W 175th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 5
-DTSTART:20261107T214500Z
-DTEND:20261107T231000Z
-DTSTAMP:20261019T165921Z
-UID:ben-soccer-whitecaps:Game_5349428@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,game
-DESCRIPTION:Arrive 3:45 PM · Starts 4:00 PM\nWhere: Merriam Field 5 (Merr
- iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
- rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
- etrics) —\nPM Little Llamas at KCL Whitecaps\nArrive by 3:45 PM\nMerriam
-  Facility Field 5
-LAST-MODIFIED:20261019T165921Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
 DTSTART:20261108T173000Z
 DTEND:20261108T190000Z
@@ -1657,6 +1609,54 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Game vs PM Little Llamas · Merriam Field 5
+DTSTART:20261107T214500Z
+DTEND:20261107T231000Z
+DTSTAMP:20261019T165921Z
+UID:ben-soccer-whitecaps:Game_5349428@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,game
+DESCRIPTION:Arrive 3:45 PM · Starts 4:00 PM\nWhere: Merriam Field 5 (Merr
+ iam Facility)\nMap: https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Me
+ rriam%2C%20KS%2066203\nCalendar: Ben's Soccer\n\n— Original notes (playm
+ etrics) —\nPM Little Llamas at KCL Whitecaps\nArrive by 3:45 PM\nMerriam
+  Facility Field 5
+LAST-MODIFIED:20261019T165921Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
+DTSTART:20261107T213000Z
+DTEND:20261107T230000Z
+DTSTAMP:20261017T163531Z
+UID:andrew-basketball:9030749-375261980@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,practice
+DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
+ )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
+ ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
+ teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
+  PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163531Z
+LOCATION:12501 W 175th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
+DTSTART:20261107T192000Z
+DTEND:20261107T202000Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261742@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
+ s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
+ me:  1:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration

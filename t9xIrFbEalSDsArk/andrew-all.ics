@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
-DTSTART:20261107T213000Z
-DTEND:20261107T230000Z
-DTSTAMP:20261017T163531Z
-UID:andrew-basketball:9030749-375261980@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
- )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
- ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
- teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
-  PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
-LOCATION:12501 W 175th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
 DTSTART:20261108T173000Z
 DTEND:20261108T190000Z
@@ -1230,6 +1214,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
+DTSTART:20261107T213000Z
+DTEND:20261107T230000Z
+DTSTAMP:20261017T163531Z
+UID:andrew-basketball:9030749-375261980@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,practice
+DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
+ )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
+ ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
+ teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
+  PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163531Z
+LOCATION:12501 W 175th St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Teacher Professional Collaboration
