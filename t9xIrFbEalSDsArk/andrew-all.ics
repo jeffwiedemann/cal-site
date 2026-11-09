@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
-DTSTART:20261108T173000Z
-DTEND:20261108T190000Z
-DTSTAMP:20261104T175902Z
-UID:andrew-soccer:Game_5422687@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 11:30 AM · Starts 12:00 PM\nMap: https://maps.apple.co
- m/?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: 
- Andrew's Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL 
- U11B at KC Athletics Monaco U11B (Indoor)\nArrive by 11:30 AM\nUniform: Bl
- ack/Black/Black\nAdventHealth Sports Park at Bluhawk Indoor Turf 1 Field 1
-LAST-MODIFIED:20261104T175902Z
-LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
@@ -1214,6 +1198,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
+DTSTART:20261108T173000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261104T175902Z
+UID:andrew-soccer:Game_5422687@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:30 AM · Starts 12:00 PM\nMap: https://maps.apple.co
+ m/?q=16201%20Shawnee%20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: 
+ Andrew's Soccer\n\n— Original notes (playmetrics) —\nKC SURF PRE ECNL 
+ U11B at KC Athletics Monaco U11B (Indoor)\nArrive by 11:30 AM\nUniform: Bl
+ ack/Black/Black\nAdventHealth Sports Park at Bluhawk Indoor Turf 1 Field 1
+LAST-MODIFIED:20261104T175902Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
