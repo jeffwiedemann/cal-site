@@ -8,32 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20260927T222647Z
-UID:bv-school:4d916bc3-bf61-5f61-a282-a06c73ecac32@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Both,School,no_school
-DESCRIPTION:Calendar: Blue Valley Schools
-LAST-MODIFIED:20260927T222647Z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice
-DTSTART:20261110T003000Z
-DTEND:20261110T013000Z
-DTSTAMP:20261022T151647Z
-UID:andrew-soccer:Practice_13622744@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 6:30 PM\nMap: https://maps.apple.com/?q=16201%20Shawnee
- %20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: Andrew's Soccer\n\n
- — Original notes (playmetrics) —\nAdventHealth Sports Park at Bluhawk 
- Indoor Turf
-LAST-MODIFIED:20261022T151647Z
-LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
 DTSTART:20261111T233000Z
 DTEND:20261112T003000Z
@@ -1198,6 +1172,32 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice
+DTSTART:20261110T003000Z
+DTEND:20261110T013000Z
+DTSTAMP:20261022T151647Z
+UID:andrew-soccer:Practice_13622744@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 6:30 PM\nMap: https://maps.apple.com/?q=16201%20Shawnee
+ %20Dr%2C%20Overland%20Park%2C%20KS%2066223\nCalendar: Andrew's Soccer\n\n
+ — Original notes (playmetrics) —\nAdventHealth Sports Park at Bluhawk 
+ Indoor Turf
+LAST-MODIFIED:20261022T151647Z
+LOCATION:16201 Shawnee Dr\, Overland Park\, KS 66223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260927T222647Z
+UID:bv-school:4d916bc3-bf61-5f61-a282-a06c73ecac32@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Both,School,no_school
+DESCRIPTION:Calendar: Blue Valley Schools
+LAST-MODIFIED:20260927T222647Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
