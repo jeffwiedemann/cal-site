@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
-DTSTART:20261111T000000Z
-DTEND:20261111T010000Z
-DTSTAMP:20261017T163219Z
-UID:ben-soccer-whitecaps:Practice_13508695@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Soccer,practice
-DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
- : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
- 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
- am Facility Field B
-LAST-MODIFIED:20261017T163219Z
-LOCATION:9701 W 67th St\, Merriam\, KS 66203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
 DTSTART:20261113T010500Z
 DTEND:20261113T020500Z
@@ -795,6 +780,21 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261017T163219Z
+UID:ben-soccer-whitecaps:Practice_13508695@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Soccer,practice
+DESCRIPTION:Starts 6:00 PM\nWhere: Merriam Field B (Merriam Facility)\nMap
+ : https://maps.apple.com/?q=9701%20W%2067th%20St%2C%20Merriam%2C%20KS%2066
+ 203\nCalendar: Ben's Soccer\n\n— Original notes (playmetrics) —\nMerri
+ am Facility Field B
+LAST-MODIFIED:20261017T163219Z
+LOCATION:9701 W 67th St\, Merriam\, KS 66203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏫 No School (Andrew & Ben): Professional Learning
