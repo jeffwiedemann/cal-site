@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
-DTSTART:20261111T233000Z
-DTEND:20261112T003000Z
-DTSTAMP:20261022T151647Z
-UID:andrew-soccer:Practice_13623229@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 5:30 PM\nWhere: Scheels Field 11 (Scheels Overland Park
-  Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%2
- 0Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Origina
- l notes (playmetrics) —\nScheels Overland Park Soccer Complex 11
-LAST-MODIFIED:20261022T151647Z
-LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
 DTSTART:20261113T010500Z
 DTEND:20261113T020500Z
@@ -40,18 +25,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20261113T021000Z
-DTEND:20261113T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20261113T021500Z
+DTEND:20261113T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261881@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -218,18 +203,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20261120T021000Z
-DTEND:20261120T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20261120T021500Z
+DTEND:20261120T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261882@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -354,18 +339,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20261204T021000Z
-DTEND:20261204T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20261204T021500Z
+DTEND:20261204T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261884@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -649,18 +634,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20261218T021000Z
-DTEND:20261218T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20261218T021500Z
+DTEND:20261218T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261886@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -783,18 +768,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20270108T021000Z
-DTEND:20270108T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20270108T021500Z
+DTEND:20270108T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261889@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -845,18 +830,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20270115T021000Z
-DTEND:20270115T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20270115T021500Z
+DTEND:20270115T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261890@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -996,18 +981,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20270129T021000Z
-DTEND:20270129T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20270129T021500Z
+DTEND:20270129T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261892@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,18 +1070,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20270205T021000Z
-DTEND:20270205T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20270205T021500Z
+DTEND:20270205T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261893@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,18 +1224,18 @@ LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20270219T021000Z
-DTEND:20270219T031000Z
-DTSTAMP:20261017T163531Z
+DTSTART:20270219T021500Z
+DTEND:20270219T031500Z
+DTSTAMP:20261112T181910Z
 UID:andrew-basketball:9030749-375261895@kids-calendar-sync
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:10 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
  ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
  0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
   (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :10 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
 LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
@@ -1536,6 +1521,21 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
+DTSTART:20261111T233000Z
+DTEND:20261112T003000Z
+DTSTAMP:20261022T151647Z
+UID:andrew-soccer:Practice_13623229@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:30 PM\nWhere: Scheels Field 11 (Scheels Overland Park
+  Soccer Complex)\nMap: https://maps.apple.com/?q=13700%20Switzer%20Rd%2C%2
+ 0Overland%20Park%2C%20KS%2066221\nCalendar: Andrew's Soccer\n\n— Origina
+ l notes (playmetrics) —\nScheels Overland Park Soccer Complex 11
+LAST-MODIFIED:20261022T151647Z
+LOCATION:13700 Switzer Rd\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
