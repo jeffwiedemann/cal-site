@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
-DTSTART:20261113T010500Z
-DTEND:20261113T020500Z
-DTSTAMP:20261017T163219Z
-UID:ben-basketball:9075677-375261655@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Basketball,practice
-DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
- ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
- ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
- msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
-  (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163219Z
-LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
 DTSTART:20261114T192000Z
 DTEND:20261114T202000Z
@@ -780,6 +764,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261113T010500Z
+DTEND:20261113T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261655@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B

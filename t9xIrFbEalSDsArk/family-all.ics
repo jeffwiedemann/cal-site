@@ -8,38 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
-DTSTART:20261113T010500Z
-DTEND:20261113T020500Z
-DTSTAMP:20261017T163219Z
-UID:ben-basketball:9075677-375261655@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Basketball,practice
-DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
- ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
- ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
- msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
-  (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163219Z
-LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
-DTSTART:20261113T021500Z
-DTEND:20261113T031500Z
-DTSTAMP:20261112T181910Z
-UID:andrew-basketball:9030749-375261881@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
- ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
- 0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
-  (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
- :15 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261112T181910Z
-LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Pre-ECNL B2015/16 · Parag
  on Star Field 6S
 DTSTART:20261114T133000Z
@@ -1521,6 +1489,38 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Practice · Blue Valley MS
+DTSTART:20261113T021500Z
+DTEND:20261113T031500Z
+DTSTAMP:20261112T181910Z
+UID:andrew-basketball:9030749-375261881@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Basketball,practice
+DESCRIPTION:Starts 8:15 PM\nWhere: Blue Valley MS (Blue Valley Middle Scho
+ ol)\nMap: https://maps.apple.com/?q=5001%20W%20163rd%20Ter%2C%20Overland%2
+ 0Park%2C%20KS%2066085\nCalendar: Andrew's Basketball\n\n— Original notes
+  (teamsnap) —\nLocation: Blue Valley Middle School\n   (Arrival Time:  8
+ :15 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261112T181910Z
+LOCATION:5001 W 163rd Ter\, Overland Park\, KS 66085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
+DTSTART:20261113T010500Z
+DTEND:20261113T020500Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261655@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 7:05 PM\nWhere: Sunrise Point Elem (Sunrise Point Eleme
+ ntary)\nMap: https://maps.apple.com/?q=15800%20Roe%20Ave%2C%20Overland%20P
+ ark%2C%20KS%2066224\nCalendar: Ben's Basketball\n\n— Original notes (tea
+ msnap) —\nLocation: Sunrise Point Elementary\n   (Arrival Time:  7:05 PM
+  (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:15800 Roe Ave\, Overland Park\, KS 66224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Practice · Scheels Field 11
