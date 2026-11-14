@@ -8,23 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Pre-ECNL B2015/16 · Parag
- on Star Field 6S
-DTSTART:20261114T133000Z
-DTEND:20261114T150000Z
-DTSTAMP:20261102T202206Z
-UID:andrew-soccer:Game_5409121@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: Paragon Star Field 6S
- \nMap: https://maps.apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20Sum
- mit%2C%20MO%2064081\nCalendar: Andrew's Soccer\n\n— Original notes (play
- metrics) —\nKansas Rush Pre-ECNL B2015/16 at KC SURF PRE ECNL U11B (Pre-
- ECNL)\nArrive by 7:30 AM\nUniform: Black/Black/Black\nParagon Star 6S
-LAST-MODIFIED:20261102T202206Z
-LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs Gretna Elite Academy Pre-ECNL B2015/16
   · Paragon Star Field 6S
 DTSTART:20261114T174500Z
@@ -225,6 +208,23 @@ DESCRIPTION:Arrive 5:30 PM · Starts 6:00 PM\nWhere: New Century FieldHous
  dHouse Turf Field
 LAST-MODIFIED:20261104T175902Z
 LOCATION:551 New Century Pkwy\, New Century\, KS 66031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Pre-ECNL B2015/16 · Parag
+ on Star Field 6S
+DTSTART:20261114T133000Z
+DTEND:20261114T150000Z
+DTSTAMP:20261102T202206Z
+UID:andrew-soccer:Game_5409121@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 7:30 AM · Starts 8:00 AM\nWhere: Paragon Star Field 6S
+ \nMap: https://maps.apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20Sum
+ mit%2C%20MO%2064081\nCalendar: Andrew's Soccer\n\n— Original notes (play
+ metrics) —\nKansas Rush Pre-ECNL B2015/16 at KC SURF PRE ECNL U11B (Pre-
+ ECNL)\nArrive by 7:30 AM\nUniform: Black/Black/Black\nParagon Star 6S
+LAST-MODIFIED:20261102T202206Z
+LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs KC Athletics Monaco U11B (Indoor)
