@@ -8,40 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Game vs Gretna Elite Academy Pre-ECNL B2015/16
-  · Paragon Star Field 6S
-DTSTART:20261114T174500Z
-DTEND:20261114T193000Z
-DTSTAMP:20261102T202206Z
-UID:andrew-soccer:Game_5409073@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Soccer,game
-DESCRIPTION:Arrive 11:45 AM · Starts 12:30 PM\nWhere: Paragon Star Field 
- 6S\nMap: https://maps.apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20S
- ummit%2C%20MO%2064081\nCalendar: Andrew's Soccer\n\n— Original notes (pl
- aymetrics) —\nGretna Elite Academy Pre-ECNL B2015/16 at KC SURF PRE ECNL
-  U11B (Pre-ECNL)\nArrive by 11:45 AM\nUniform: Black/Black/Black\nParagon 
- Star 6S
-LAST-MODIFIED:20261102T202206Z
-LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
-DTSTART:20261114T213000Z
-DTEND:20261114T230000Z
-DTSTAMP:20261017T163531Z
-UID:andrew-basketball:9030749-375261981@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Andrew,Basketball,practice
-DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
- )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
- ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
- teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
-  PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163531Z
-LOCATION:12501 W 175th St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs Toca Fusion Premier Pre-ECNL B2015/16 
  · Paragon Star Field 6N
 DTSTART:20261115T181500Z
@@ -1124,6 +1090,40 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Andrew's Basketball Practice · Aubry Bend MS
+DTSTART:20261114T213000Z
+DTEND:20261114T230000Z
+DTSTAMP:20261017T163531Z
+UID:andrew-basketball:9030749-375261981@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Basketball,practice
+DESCRIPTION:Starts 3:30 PM\nWhere: Aubry Bend MS (Aubry Bend Middle School
+ )\nMap: https://maps.apple.com/?q=12501%20W%20175th%20St%2C%20Overland%20P
+ ark%2C%20KS%2066221\nCalendar: Andrew's Basketball\n\n— Original notes (
+ teamsnap) —\nLocation: Aubry Bend Middle School\n   (Arrival Time:  3:30
+  PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163531Z
+LOCATION:12501 W 175th St\, Overland Park\, KS 66221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Game vs Gretna Elite Academy Pre-ECNL B2015/16
+  · Paragon Star Field 6S
+DTSTART:20261114T174500Z
+DTEND:20261114T193000Z
+DTSTAMP:20261102T202206Z
+UID:andrew-soccer:Game_5409073@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Andrew,Soccer,game
+DESCRIPTION:Arrive 11:45 AM · Starts 12:30 PM\nWhere: Paragon Star Field 
+ 6S\nMap: https://maps.apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20S
+ ummit%2C%20MO%2064081\nCalendar: Andrew's Soccer\n\n— Original notes (pl
+ aymetrics) —\nGretna Elite Academy Pre-ECNL B2015/16 at KC SURF PRE ECNL
+  U11B (Pre-ECNL)\nArrive by 11:45 AM\nUniform: Black/Black/Black\nParagon 
+ Star 6S
+LAST-MODIFIED:20261102T202206Z
+LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Andrew's Soccer Game vs Kansas Rush Pre-ECNL B2015/16 · Parag

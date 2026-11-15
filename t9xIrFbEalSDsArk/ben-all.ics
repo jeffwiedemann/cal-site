@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
-DTSTART:20261114T192000Z
-DTEND:20261114T202000Z
-DTSTAMP:20261017T163219Z
-UID:ben-basketball:9075677-375261743@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Basketball,practice
-DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
- ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
- nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
- s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
- me:  1:20 PM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261017T163219Z
-LOCATION:16451 Flint St\, Overland Park\, KS 66221
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
@@ -764,6 +748,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Practice · Timber Creek Elem
+DTSTART:20261114T192000Z
+DTEND:20261114T202000Z
+DTSTAMP:20261017T163219Z
+UID:ben-basketball:9075677-375261743@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,practice
+DESCRIPTION:Starts 1:20 PM\nWhere: Timber Creek Elem (Timber Creek Element
+ ary School)\nMap: https://maps.apple.com/?q=16451%20Flint%20St%2C%20Overla
+ nd%20Park%2C%20KS%2066221\nCalendar: Ben's Basketball\n\n— Original note
+ s (teamsnap) —\nLocation: Timber Creek Elementary School\n   (Arrival Ti
+ me:  1:20 PM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261017T163219Z
+LOCATION:16451 Flint St\, Overland Park\, KS 66221
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
