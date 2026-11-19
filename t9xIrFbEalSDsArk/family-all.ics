@@ -8,21 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:⚽ Andrew's Soccer Practice · Paragon Star Field 1
-DTSTART:20261118T233000Z
-DTEND:20261119T003000Z
-DTSTAMP:20261118T185108Z
-UID:andrew-soccer:Practice_13623230@kids-calendar-sync
-SEQUENCE:1
-CATEGORIES:Andrew,Soccer,practice
-DESCRIPTION:Starts 5:30 PM\nWhere: Paragon Star Field 1\nMap: https://maps
- .apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20Summit%2C%20MO%2064081
- \nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nParag
- on Star 1
-LAST-MODIFIED:20261118T185108Z
-LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
 DTSTART:20261120T010500Z
 DTEND:20261120T020500Z
@@ -1358,6 +1343,21 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Andrew's Soccer Practice · Paragon Star Field 1
+DTSTART:20261118T233000Z
+DTEND:20261119T003000Z
+DTSTAMP:20261118T185108Z
+UID:andrew-soccer:Practice_13623230@kids-calendar-sync
+SEQUENCE:1
+CATEGORIES:Andrew,Soccer,practice
+DESCRIPTION:Starts 5:30 PM\nWhere: Paragon Star Field 1\nMap: https://maps
+ .apple.com/?q=1401%20NW%20River%20Rd%2C%20Lee%27s%20Summit%2C%20MO%2064081
+ \nCalendar: Andrew's Soccer\n\n— Original notes (playmetrics) —\nParag
+ on Star 1
+LAST-MODIFIED:20261118T185108Z
+LOCATION:1401 NW River Rd\, Lee's Summit\, MO 64081
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Practice · Merriam Field B
