@@ -8,22 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:🏀 Ben's Basketball Game vs Goeglein · Stilwell Elem
-DTSTART:20261121T153000Z
-DTEND:20261121T170000Z
-DTSTAMP:20261107T162611Z
-UID:ben-basketball:9075677-376129214@kids-calendar-sync
-SEQUENCE:0
-CATEGORIES:Ben,Basketball,game
-DESCRIPTION:Arrive 9:30 AM · Starts 9:45 AM\nWhere: Stilwell Elem (Stilwe
- ll Elementary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20S
- t%2C%20Stilwell%2C%20KS%2066085\nCalendar: Ben's Basketball\n\n— Origina
- l notes (teamsnap) —\nLocation: Stilwell Elementary School\n  \n Uniform
- : Green (Arrival Time:  9:30 AM (Central Time (US & Canada))) 
-LAST-MODIFIED:20261107T162611Z
-LOCATION:6410 W 199th St\, Stilwell\, KS 66085
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Ben's Soccer Game vs KCL Timbers · Merriam Field 5
 DTSTART:20261122T201500Z
 DTEND:20261122T214000Z
@@ -717,6 +701,22 @@ SEQUENCE:0
 CATEGORIES:Both,School,no_school
 DESCRIPTION:Calendar: Blue Valley Schools
 LAST-MODIFIED:20261101T164911Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Ben's Basketball Game vs Goeglein · Stilwell Elem
+DTSTART:20261121T153000Z
+DTEND:20261121T170000Z
+DTSTAMP:20261107T162611Z
+UID:ben-basketball:9075677-376129214@kids-calendar-sync
+SEQUENCE:0
+CATEGORIES:Ben,Basketball,game
+DESCRIPTION:Arrive 9:30 AM · Starts 9:45 AM\nWhere: Stilwell Elem (Stilwe
+ ll Elementary School)\nMap: https://maps.apple.com/?q=6410%20W%20199th%20S
+ t%2C%20Stilwell%2C%20KS%2066085\nCalendar: Ben's Basketball\n\n— Origina
+ l notes (teamsnap) —\nLocation: Stilwell Elementary School\n  \n Uniform
+ : Green (Arrival Time:  9:30 AM (Central Time (US & Canada))) 
+LAST-MODIFIED:20261107T162611Z
+LOCATION:6410 W 199th St\, Stilwell\, KS 66085
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏀 Ben's Basketball Practice · Sunrise Point Elem
